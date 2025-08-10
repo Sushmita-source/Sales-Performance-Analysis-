@@ -1,0 +1,1001 @@
+Order ID,Date,Product,Category,Region,Sales,Profit,Quantity,Discount,Total Sales
+ORD00001,2023-01-05,Headphones,Accessories,North America,107.42,6.23,2,0.05,214.84
+ORD00002,2024-02-08,Keyboard,Office Equipment,North America,1175.95,232.98,1,0.2,1175.95
+ORD00003,2023-07-19,Mouse,Electronics,Europe,1392.16,76.06,1,0.1,1392.16
+ORD00004,2023-02-18,Printer,Office Equipment,North America,975.81,169.29,2,0.15,1951.62
+ORD00005,2024-02-18,Monitor,Accessories,North America,1655.64,483.86,2,0.05,3311.28
+ORD00006,2024-02-22,Keyboard,Office Equipment,Africa,1999.6,155.13,4,0.1,7998.4
+ORD00007,2023-08-31,Monitor,Office Equipment,North America,269.0,16.08,4,0.05,1076.0
+ORD00008,2024-02-04,Monitor,Accessories,Africa,1245.84,71.83,5,0.2,6229.2
+ORD00009,2023-09-29,Keyboard,Office Equipment,North America,1099.8,55.52,5,0.2,5499.0
+ORD00010,2023-12-25,Printer,Office Equipment,Africa,115.06,7.52,1,0.1,115.06
+ORD00011,2023-10-30,Headphones,Accessories,Africa,96.93,18.63,5,0.2,484.65000000000003
+ORD00012,2023-11-15,Tablet,Electronics,Asia,1412.24,187.58,5,0.05,7061.2
+ORD00013,2024-02-04,Keyboard,Office Equipment,Asia,1868.97,352.5,3,0.15,5606.91
+ORD00014,2023-10-10,Printer,Office Equipment,North America,1702.32,470.69,5,0.15,8511.6
+ORD00015,2023-05-26,Keyboard,Office Equipment,Europe,1792.4,432.1,3,0.25,5377.200000000001
+ORD00016,2023-03-16,Printer,Accessories,Africa,1151.98,173.23,5,0.2,5759.9
+ORD00017,2023-04-12,Printer,Electronics,North America,1255.66,318.8,3,0.2,3766.9800000000005
+ORD00018,2023-11-18,Mouse,Electronics,Africa,715.06,64.68,5,0.15,3575.2999999999997
+ORD00019,2023-04-08,Tablet,Office Equipment,Africa,1887.41,401.84,1,0.05,1887.41
+ORD00020,2023-03-07,Keyboard,Office Equipment,North America,141.17,29.78,5,0.1,705.8499999999999
+ORD00021,2023-04-20,Laptop,Electronics,Africa,1016.16,52.65,1,0.25,1016.16
+ORD00022,2023-02-22,Mouse,Electronics,Asia,774.27,230.87,3,0.25,2322.81
+ORD00023,2024-02-25,Laptop,Electronics,Europe,311.99,18.81,5,0.15,1559.95
+ORD00024,2023-03-10,Smartphone,Accessories,North America,1043.02,285.06,1,0.2,1043.02
+ORD00025,2023-09-13,Mouse,Accessories,North America,1206.03,258.42,4,0.1,4824.12
+ORD00026,2023-05-08,Laptop,Accessories,North America,548.67,154.55,2,0.15,1097.34
+ORD00027,2023-12-24,Tablet,Accessories,Asia,516.59,45.96,5,0.25,2582.9500000000003
+ORD00028,2023-09-02,Headphones,Accessories,Asia,1389.29,138.57,1,0.1,1389.29
+ORD00029,2023-01-29,Smartphone,Accessories,Europe,242.51,67.57,5,0.1,1212.55
+ORD00030,2023-07-11,Headphones,Accessories,Europe,812.89,161.26,4,0.15,3251.56
+ORD00031,2023-12-30,Monitor,Accessories,Europe,1340.89,210.97,3,0.1,4022.67
+ORD00032,2023-11-25,Headphones,Electronics,South America,1082.13,105.3,5,0.1,5410.650000000001
+ORD00033,2023-09-04,Monitor,Accessories,Asia,1474.71,168.55,1,0.25,1474.71
+ORD00034,2023-04-06,Printer,Office Equipment,Asia,1094.83,284.08,2,0.05,2189.66
+ORD00035,2023-09-28,Keyboard,Accessories,South America,1635.99,353.79,1,0.2,1635.99
+ORD00036,2023-12-03,Tablet,Electronics,South America,1612.53,289.94,2,0.05,3225.06
+ORD00037,2023-05-31,Smartphone,Office Equipment,Africa,1956.72,468.46,4,0.05,7826.88
+ORD00038,2023-12-12,Keyboard,Accessories,Asia,1710.85,422.79,1,0.2,1710.85
+ORD00039,2023-06-19,Laptop,Accessories,South America,1798.61,300.7,3,0.1,5395.83
+ORD00040,2023-07-05,Mouse,Accessories,South America,532.91,109.54,2,0.15,1065.82
+ORD00041,2023-08-31,Monitor,Accessories,North America,1129.66,89.71,5,0.2,5648.3
+ORD00042,2023-08-12,Headphones,Accessories,North America,733.33,132.75,2,0.15,1466.66
+ORD00043,2023-01-04,Keyboard,Office Equipment,North America,1912.41,422.43,1,0.25,1912.41
+ORD00044,2023-01-26,Laptop,Accessories,North America,1320.63,265.65,5,0.05,6603.150000000001
+ORD00045,2024-01-03,Keyboard,Office Equipment,Europe,1656.5,183.68,3,0.1,4969.5
+ORD00046,2023-10-05,Keyboard,Electronics,Asia,484.06,111.48,4,0.2,1936.24
+ORD00047,2023-09-14,Laptop,Office Equipment,Asia,1195.68,98.68,3,0.15,3587.04
+ORD00048,2023-10-30,Laptop,Accessories,Europe,91.07,15.57,1,0.2,91.07
+ORD00049,2023-07-13,Smartphone,Electronics,Africa,1128.31,106.02,1,0.1,1128.31
+ORD00050,2023-04-12,Printer,Accessories,North America,357.79,38.15,5,0.2,1788.95
+ORD00051,2023-08-08,Monitor,Accessories,Europe,1788.9,433.36,1,0.2,1788.9
+ORD00052,2023-02-24,Mouse,Office Equipment,Europe,203.57,42.34,3,0.15,610.71
+ORD00053,2023-05-06,Monitor,Accessories,Africa,1538.95,313.91,4,0.2,6155.8
+ORD00054,2023-10-04,Laptop,Office Equipment,Europe,1949.49,348.64,4,0.05,7797.96
+ORD00055,2023-05-05,Printer,Accessories,Asia,719.42,184.45,3,0.2,2158.2599999999998
+ORD00056,2023-08-21,Laptop,Accessories,South America,1940.25,204.31,3,0.05,5820.75
+ORD00057,2023-11-30,Smartphone,Office Equipment,Asia,1793.99,191.35,5,0.1,8969.95
+ORD00058,2023-10-11,Keyboard,Electronics,Africa,729.97,87.34,2,0.2,1459.94
+ORD00059,2023-08-24,Tablet,Accessories,North America,1024.18,207.26,1,0.1,1024.18
+ORD00060,2023-08-01,Tablet,Accessories,North America,585.96,108.73,4,0.2,2343.84
+ORD00061,2023-07-31,Headphones,Electronics,Asia,662.37,48.05,5,0.2,3311.85
+ORD00062,2023-03-18,Smartphone,Electronics,South America,1851.22,121.97,2,0.05,3702.44
+ORD00063,2023-06-22,Headphones,Accessories,Asia,1439.01,426.47,3,0.05,4317.03
+ORD00064,2023-03-24,Monitor,Office Equipment,South America,1624.34,415.77,5,0.1,8121.7
+ORD00065,2023-03-28,Printer,Electronics,South America,582.82,149.55,2,0.1,1165.64
+ORD00066,2023-11-16,Monitor,Accessories,Africa,401.59,28.57,1,0.15,401.59
+ORD00067,2023-07-16,Smartphone,Office Equipment,Africa,463.84,119.05,5,0.2,2319.2
+ORD00068,2023-04-11,Smartphone,Office Equipment,Asia,427.57,84.05,1,0.05,427.57
+ORD00069,2023-12-19,Monitor,Accessories,Africa,1839.72,328.73,3,0.15,5519.16
+ORD00070,2024-02-09,Laptop,Electronics,Asia,747.28,222.98,3,0.05,2241.84
+ORD00071,2023-02-21,Mouse,Office Equipment,North America,142.56,24.7,1,0.15,142.56
+ORD00072,2023-02-17,Printer,Office Equipment,Africa,587.43,78.71,3,0.25,1762.29
+ORD00073,2023-09-16,Monitor,Accessories,South America,1778.78,208.12,2,0.25,3557.56
+ORD00074,2023-03-31,Smartphone,Office Equipment,Africa,1310.64,307.87,1,0.1,1310.64
+ORD00075,2024-02-10,Mouse,Electronics,Asia,422.07,104.11,1,0.1,422.07
+ORD00076,2023-10-20,Keyboard,Office Equipment,South America,589.12,82.42,1,0.2,589.12
+ORD00077,2023-12-10,Monitor,Electronics,Asia,1522.33,299.06,4,0.2,6089.32
+ORD00078,2023-12-27,Mouse,Accessories,Europe,1077.46,321.39,1,0.1,1077.46
+ORD00079,2023-05-06,Tablet,Electronics,Europe,257.19,35.82,2,0.05,514.38
+ORD00080,2023-01-06,Smartphone,Accessories,Asia,1706.0,166.07,3,0.15,5118.0
+ORD00081,2023-02-21,Mouse,Office Equipment,Europe,1503.66,225.4,5,0.2,7518.3
+ORD00082,2023-11-20,Smartphone,Electronics,Asia,972.73,280.38,2,0.1,1945.46
+ORD00083,2023-05-09,Tablet,Office Equipment,South America,443.39,119.76,3,0.2,1330.17
+ORD00084,2023-01-01,Monitor,Accessories,Asia,1201.68,150.05,1,0.05,1201.68
+ORD00085,2023-11-11,Tablet,Office Equipment,Europe,1122.9,156.9,2,0.05,2245.8
+ORD00086,2023-06-29,Laptop,Accessories,South America,1857.24,108.57,1,0.1,1857.24
+ORD00087,2023-07-08,Monitor,Electronics,Asia,852.42,77.47,3,0.25,2557.2599999999998
+ORD00088,2023-10-28,Keyboard,Office Equipment,Europe,758.95,175.24,1,0.25,758.95
+ORD00089,2024-02-04,Printer,Electronics,North America,1854.61,341.37,4,0.15,7418.44
+ORD00090,2023-03-06,Monitor,Accessories,Europe,1990.94,288.15,1,0.1,1990.94
+ORD00091,2023-07-03,Tablet,Office Equipment,North America,174.27,28.1,2,0.2,348.54
+ORD00092,2023-02-12,Mouse,Accessories,Europe,1326.73,282.97,5,0.25,6633.65
+ORD00093,2023-11-24,Headphones,Electronics,North America,1534.64,213.28,4,0.2,6138.56
+ORD00094,2023-01-05,Monitor,Electronics,South America,609.24,153.0,3,0.05,1827.72
+ORD00095,2023-04-27,Printer,Electronics,Africa,411.94,102.98,1,0.15,411.94
+ORD00096,2024-02-01,Mouse,Accessories,Europe,1242.49,221.36,1,0.2,1242.49
+ORD00097,2023-08-21,Headphones,Accessories,Europe,1310.27,148.22,4,0.2,5241.08
+ORD00098,2023-08-18,Smartphone,Office Equipment,Asia,1735.5,484.86,1,0.15,1735.5
+ORD00099,2023-07-17,Tablet,Electronics,Europe,234.05,63.04,3,0.05,702.1500000000001
+ORD00100,2023-04-12,Tablet,Accessories,North America,355.91,45.83,5,0.1,1779.5500000000002
+ORD00101,2023-09-16,Keyboard,Office Equipment,Europe,1995.6,365.33,2,0.05,3991.2
+ORD00102,2023-01-21,Mouse,Electronics,Asia,1857.99,467.27,5,0.05,9289.95
+ORD00103,2023-02-26,Keyboard,Electronics,North America,898.52,206.68,2,0.1,1797.04
+ORD00104,2023-07-19,Mouse,Office Equipment,South America,391.92,41.03,1,0.25,391.92
+ORD00105,2023-11-05,Tablet,Electronics,Asia,1945.85,410.09,5,0.1,9729.25
+ORD00106,2023-09-13,Headphones,Office Equipment,South America,942.27,112.82,2,0.05,1884.54
+ORD00107,2023-07-30,Keyboard,Electronics,Asia,623.95,109.96,1,0.1,623.95
+ORD00108,2024-02-02,Smartphone,Office Equipment,North America,730.17,194.1,2,0.1,1460.34
+ORD00109,2023-05-16,Headphones,Accessories,Asia,1996.91,478.21,1,0.05,1996.91
+ORD00110,2024-01-29,Monitor,Office Equipment,South America,1758.28,340.39,4,0.25,7033.12
+ORD00111,2023-08-19,Smartphone,Accessories,Europe,1489.24,174.01,2,0.15,2978.48
+ORD00112,2023-01-07,Tablet,Electronics,Africa,1898.64,419.21,2,0.25,3797.28
+ORD00113,2023-06-29,Printer,Accessories,North America,1708.46,218.21,3,0.25,5125.38
+ORD00114,2024-01-31,Keyboard,Accessories,South America,1352.45,229.51,5,0.05,6762.25
+ORD00115,2023-01-18,Headphones,Office Equipment,Africa,991.56,92.32,5,0.15,4957.799999999999
+ORD00116,2024-02-22,Keyboard,Office Equipment,South America,192.27,14.37,2,0.15,384.54
+ORD00117,2024-02-19,Tablet,Office Equipment,North America,1638.51,468.15,3,0.25,4915.53
+ORD00118,2023-08-31,Printer,Electronics,South America,1197.75,207.73,1,0.2,1197.75
+ORD00119,2023-03-21,Printer,Office Equipment,South America,1959.29,157.0,2,0.1,3918.58
+ORD00120,2023-08-04,Laptop,Office Equipment,Africa,1154.81,116.71,2,0.2,2309.62
+ORD00121,2023-03-20,Smartphone,Accessories,South America,1710.09,390.16,2,0.1,3420.18
+ORD00122,2023-01-11,Headphones,Accessories,Europe,107.24,28.24,1,0.1,107.24
+ORD00123,2023-05-19,Laptop,Electronics,Europe,277.23,81.12,5,0.2,1386.15
+ORD00124,2023-02-22,Tablet,Accessories,Asia,1054.07,130.21,4,0.25,4216.28
+ORD00125,2023-05-31,Keyboard,Electronics,South America,1897.06,393.59,3,0.25,5691.18
+ORD00126,2023-11-02,Keyboard,Accessories,South America,651.18,163.45,2,0.05,1302.36
+ORD00127,2024-02-19,Monitor,Electronics,Europe,1310.6,153.74,1,0.05,1310.6
+ORD00128,2023-06-16,Headphones,Office Equipment,South America,1340.69,100.75,5,0.25,6703.450000000001
+ORD00129,2024-02-27,Laptop,Accessories,Africa,578.39,141.24,1,0.15,578.39
+ORD00130,2023-11-13,Monitor,Office Equipment,Asia,239.21,69.37,3,0.15,717.63
+ORD00131,2023-11-29,Laptop,Accessories,Asia,262.66,61.68,5,0.25,1313.3000000000002
+ORD00132,2024-01-10,Keyboard,Accessories,North America,1337.58,125.93,1,0.25,1337.58
+ORD00133,2023-02-14,Laptop,Accessories,Africa,582.79,38.93,2,0.1,1165.58
+ORD00134,2023-10-06,Monitor,Office Equipment,South America,839.41,238.76,5,0.05,4197.05
+ORD00135,2023-08-29,Keyboard,Office Equipment,South America,1909.5,123.49,4,0.2,7638.0
+ORD00136,2023-07-30,Keyboard,Office Equipment,South America,504.17,147.89,2,0.25,1008.34
+ORD00137,2023-04-06,Printer,Accessories,Africa,1024.28,217.92,5,0.15,5121.4
+ORD00138,2023-04-10,Monitor,Office Equipment,South America,1225.39,303.37,2,0.15,2450.78
+ORD00139,2023-12-24,Printer,Office Equipment,South America,1619.51,129.17,4,0.05,6478.04
+ORD00140,2023-02-17,Headphones,Accessories,North America,1836.69,159.32,3,0.15,5510.07
+ORD00141,2023-11-09,Keyboard,Electronics,North America,1157.16,171.6,4,0.25,4628.64
+ORD00142,2023-06-01,Mouse,Accessories,South America,246.43,21.24,3,0.05,739.29
+ORD00143,2023-01-21,Keyboard,Electronics,Africa,139.51,37.51,1,0.2,139.51
+ORD00144,2024-02-26,Keyboard,Office Equipment,South America,794.27,209.51,4,0.1,3177.08
+ORD00145,2023-10-05,Headphones,Office Equipment,Africa,903.49,257.25,1,0.1,903.49
+ORD00146,2023-08-10,Laptop,Office Equipment,Europe,1184.39,136.39,5,0.05,5921.950000000001
+ORD00147,2023-12-20,Headphones,Accessories,Asia,150.79,19.86,1,0.15,150.79
+ORD00148,2023-07-05,Tablet,Accessories,Africa,1809.56,277.15,1,0.25,1809.56
+ORD00149,2023-04-22,Tablet,Accessories,South America,1721.93,401.16,2,0.25,3443.86
+ORD00150,2023-04-13,Smartphone,Electronics,Africa,1253.62,355.37,1,0.2,1253.62
+ORD00151,2023-12-09,Laptop,Office Equipment,Africa,1050.68,144.39,4,0.1,4202.72
+ORD00152,2023-09-08,Monitor,Electronics,Europe,1188.09,130.27,4,0.15,4752.36
+ORD00153,2023-07-04,Printer,Accessories,Europe,60.22,8.42,5,0.1,301.1
+ORD00154,2023-10-02,Printer,Office Equipment,Asia,983.67,278.14,1,0.2,983.67
+ORD00155,2023-12-13,Laptop,Electronics,Asia,445.11,37.72,4,0.15,1780.44
+ORD00156,2023-06-29,Mouse,Office Equipment,North America,1487.44,190.9,5,0.25,7437.200000000001
+ORD00157,2023-11-28,Laptop,Office Equipment,Africa,742.02,192.31,2,0.2,1484.04
+ORD00158,2024-02-25,Keyboard,Electronics,North America,711.15,156.34,4,0.1,2844.6
+ORD00159,2023-06-19,Mouse,Office Equipment,North America,1438.5,152.63,3,0.2,4315.5
+ORD00160,2023-04-06,Headphones,Office Equipment,Asia,1135.1,274.71,3,0.05,3405.2999999999997
+ORD00161,2023-02-18,Headphones,Accessories,North America,1859.96,109.54,1,0.2,1859.96
+ORD00162,2023-04-30,Smartphone,Office Equipment,Africa,1983.13,467.69,2,0.15,3966.26
+ORD00163,2024-01-12,Tablet,Accessories,North America,1468.41,389.48,5,0.15,7342.05
+ORD00164,2023-12-25,Laptop,Electronics,Europe,793.27,109.5,2,0.25,1586.54
+ORD00165,2023-03-18,Tablet,Office Equipment,Asia,1522.39,223.29,5,0.2,7611.950000000001
+ORD00166,2023-09-15,Laptop,Electronics,Europe,1618.45,389.46,4,0.2,6473.8
+ORD00167,2023-11-08,Smartphone,Office Equipment,Asia,1564.55,406.24,4,0.1,6258.2
+ORD00168,2024-02-29,Laptop,Accessories,Europe,747.31,97.25,1,0.2,747.31
+ORD00169,2023-02-25,Printer,Office Equipment,Europe,1481.04,199.84,3,0.05,4443.12
+ORD00170,2023-09-06,Monitor,Office Equipment,Europe,1822.57,301.67,1,0.1,1822.57
+ORD00171,2023-09-11,Mouse,Accessories,North America,1571.17,271.3,4,0.1,6284.68
+ORD00172,2023-07-20,Headphones,Electronics,Europe,1117.33,158.2,3,0.2,3351.99
+ORD00173,2023-05-27,Monitor,Office Equipment,North America,576.43,38.67,2,0.05,1152.86
+ORD00174,2023-03-10,Keyboard,Electronics,Africa,1984.23,214.36,5,0.1,9921.15
+ORD00175,2023-10-25,Laptop,Accessories,North America,783.47,131.17,4,0.2,3133.88
+ORD00176,2023-12-27,Printer,Accessories,North America,1799.8,418.12,3,0.1,5399.4
+ORD00177,2023-06-30,Monitor,Accessories,North America,306.05,42.6,3,0.15,918.1500000000001
+ORD00178,2023-11-26,Keyboard,Electronics,Africa,1233.41,316.76,4,0.25,4933.64
+ORD00179,2023-07-03,Keyboard,Accessories,Europe,1931.9,482.79,3,0.25,5795.700000000001
+ORD00180,2023-07-03,Headphones,Office Equipment,Europe,1812.2,375.38,3,0.2,5436.6
+ORD00181,2023-12-30,Monitor,Accessories,North America,1270.26,242.56,2,0.2,2540.52
+ORD00182,2023-01-25,Keyboard,Accessories,North America,708.07,184.66,2,0.15,1416.14
+ORD00183,2023-08-31,Smartphone,Office Equipment,Europe,926.42,262.37,3,0.2,2779.2599999999998
+ORD00184,2023-10-04,Monitor,Electronics,Europe,836.87,92.34,1,0.1,836.87
+ORD00185,2023-08-04,Smartphone,Accessories,North America,946.84,189.56,5,0.2,4734.2
+ORD00186,2023-11-10,Laptop,Accessories,Asia,1219.34,100.2,5,0.15,6096.7
+ORD00187,2023-03-20,Laptop,Office Equipment,Europe,1920.68,187.32,1,0.05,1920.68
+ORD00188,2023-05-26,Keyboard,Accessories,Europe,1392.22,250.73,1,0.25,1392.22
+ORD00189,2023-01-20,Printer,Office Equipment,Asia,832.15,240.72,1,0.25,832.15
+ORD00190,2023-05-06,Mouse,Electronics,Asia,1250.64,307.92,4,0.1,5002.56
+ORD00191,2023-10-02,Mouse,Accessories,South America,1040.03,266.32,3,0.1,3120.09
+ORD00192,2023-05-22,Mouse,Electronics,North America,1387.1,391.63,5,0.15,6935.5
+ORD00193,2023-04-22,Laptop,Office Equipment,North America,1391.93,225.13,3,0.1,4175.79
+ORD00194,2023-11-08,Monitor,Office Equipment,North America,405.06,56.7,4,0.2,1620.24
+ORD00195,2023-01-24,Tablet,Accessories,Asia,846.49,184.29,2,0.05,1692.98
+ORD00196,2023-03-09,Laptop,Accessories,Europe,1305.98,329.37,3,0.2,3917.94
+ORD00197,2023-09-24,Printer,Accessories,Africa,1988.1,528.04,5,0.15,9940.5
+ORD00198,2024-02-20,Laptop,Electronics,Europe,1534.42,195.25,2,0.1,3068.84
+ORD00199,2023-01-03,Tablet,Office Equipment,South America,1713.82,362.07,1,0.25,1713.82
+ORD00200,2023-09-11,Laptop,Electronics,South America,169.32,46.8,1,0.2,169.32
+ORD00201,2023-04-19,Smartphone,Accessories,South America,821.86,147.96,4,0.05,3287.44
+ORD00202,2023-08-12,Monitor,Office Equipment,North America,1069.44,62.95,1,0.15,1069.44
+ORD00203,2023-06-16,Mouse,Accessories,Africa,1322.57,347.29,4,0.25,5290.28
+ORD00204,2023-06-04,Tablet,Office Equipment,Europe,998.9,100.11,2,0.1,1997.8
+ORD00205,2023-10-14,Printer,Accessories,Europe,1932.28,292.61,4,0.15,7729.12
+ORD00206,2023-04-23,Printer,Accessories,Europe,789.36,205.13,1,0.05,789.36
+ORD00207,2023-10-27,Headphones,Accessories,Africa,202.88,16.16,4,0.2,811.52
+ORD00208,2023-08-24,Monitor,Electronics,Asia,1558.71,414.4,5,0.25,7793.55
+ORD00209,2023-01-10,Headphones,Office Equipment,Europe,670.79,148.21,2,0.05,1341.58
+ORD00210,2023-04-19,Headphones,Electronics,Africa,964.66,231.03,4,0.1,3858.64
+ORD00211,2024-01-14,Smartphone,Accessories,Asia,1218.9,71.09,5,0.1,6094.5
+ORD00212,2023-12-07,Smartphone,Accessories,South America,1546.44,274.63,4,0.1,6185.76
+ORD00213,2024-02-05,Tablet,Office Equipment,Asia,750.99,128.01,1,0.2,750.99
+ORD00214,2023-10-19,Laptop,Electronics,Europe,448.74,30.53,1,0.15,448.74
+ORD00215,2023-07-21,Laptop,Accessories,Asia,1900.18,493.61,1,0.1,1900.18
+ORD00216,2023-12-19,Monitor,Office Equipment,North America,1627.54,194.71,4,0.2,6510.16
+ORD00217,2023-06-06,Smartphone,Office Equipment,South America,1552.76,136.79,4,0.05,6211.04
+ORD00218,2024-02-02,Keyboard,Electronics,South America,1552.27,355.67,4,0.1,6209.08
+ORD00219,2023-04-01,Tablet,Accessories,North America,1428.19,397.81,3,0.1,4284.57
+ORD00220,2023-11-19,Keyboard,Accessories,Africa,632.06,169.93,4,0.1,2528.24
+ORD00221,2023-05-03,Smartphone,Accessories,North America,738.9,114.57,2,0.15,1477.8
+ORD00222,2024-02-05,Monitor,Office Equipment,Africa,822.48,56.93,4,0.2,3289.92
+ORD00223,2023-10-03,Smartphone,Electronics,Asia,1655.2,475.31,4,0.05,6620.8
+ORD00224,2023-01-23,Printer,Electronics,South America,1478.55,194.11,5,0.1,7392.75
+ORD00225,2023-10-20,Keyboard,Accessories,Europe,1238.99,339.82,2,0.15,2477.98
+ORD00226,2024-01-25,Laptop,Accessories,Europe,241.56,67.43,2,0.2,483.12
+ORD00227,2024-01-22,Monitor,Electronics,Europe,1796.48,524.65,2,0.25,3592.96
+ORD00228,2024-01-24,Headphones,Electronics,Europe,963.15,172.59,4,0.25,3852.6
+ORD00229,2023-01-16,Monitor,Accessories,Asia,979.87,131.49,3,0.1,2939.61
+ORD00230,2023-01-15,Headphones,Electronics,Africa,824.63,165.88,1,0.1,824.63
+ORD00231,2023-02-27,Printer,Office Equipment,Africa,1516.25,229.31,2,0.15,3032.5
+ORD00232,2023-07-10,Printer,Accessories,Europe,1202.41,241.57,1,0.1,1202.41
+ORD00233,2023-02-12,Monitor,Office Equipment,Europe,1089.4,223.32,2,0.05,2178.8
+ORD00234,2023-04-08,Keyboard,Electronics,North America,1873.29,451.27,3,0.15,5619.87
+ORD00235,2023-09-24,Smartphone,Accessories,Africa,1997.77,452.31,2,0.15,3995.54
+ORD00236,2023-06-07,Monitor,Office Equipment,Asia,747.96,129.51,2,0.2,1495.92
+ORD00237,2023-05-07,Keyboard,Electronics,North America,429.39,31.21,1,0.25,429.39
+ORD00238,2023-11-29,Printer,Electronics,Asia,547.8,158.71,5,0.2,2739.0
+ORD00239,2023-05-28,Headphones,Accessories,Africa,147.27,41.08,1,0.05,147.27
+ORD00240,2023-09-05,Laptop,Accessories,South America,1246.57,362.91,5,0.05,6232.849999999999
+ORD00241,2023-06-03,Printer,Electronics,Europe,1884.75,366.43,1,0.15,1884.75
+ORD00242,2023-07-06,Smartphone,Office Equipment,Europe,1431.75,223.52,2,0.05,2863.5
+ORD00243,2024-02-18,Headphones,Office Equipment,Africa,167.1,23.75,1,0.1,167.1
+ORD00244,2023-11-14,Tablet,Electronics,North America,1179.29,115.34,3,0.25,3537.87
+ORD00245,2023-04-14,Headphones,Office Equipment,North America,835.59,210.83,3,0.05,2506.77
+ORD00246,2024-01-28,Headphones,Accessories,North America,1699.98,417.88,5,0.15,8499.9
+ORD00247,2023-05-12,Smartphone,Electronics,North America,144.46,24.92,5,0.1,722.3000000000001
+ORD00248,2023-04-14,Mouse,Electronics,Asia,791.21,105.97,2,0.15,1582.42
+ORD00249,2023-08-28,Keyboard,Accessories,North America,1774.16,143.52,5,0.1,8870.800000000001
+ORD00250,2023-03-20,Printer,Accessories,Africa,913.11,245.36,4,0.1,3652.44
+ORD00251,2023-12-03,Printer,Office Equipment,North America,750.85,95.91,2,0.15,1501.7
+ORD00252,2023-10-16,Keyboard,Accessories,North America,495.83,128.73,5,0.1,2479.15
+ORD00253,2023-12-18,Monitor,Accessories,Asia,1990.2,559.24,4,0.25,7960.8
+ORD00254,2023-08-30,Smartphone,Accessories,South America,1106.56,242.38,1,0.2,1106.56
+ORD00255,2023-09-12,Keyboard,Electronics,Africa,1845.62,455.04,4,0.15,7382.48
+ORD00256,2023-06-25,Headphones,Accessories,North America,502.69,93.18,1,0.1,502.69
+ORD00257,2023-02-25,Printer,Accessories,North America,1141.6,156.3,5,0.15,5708.0
+ORD00258,2023-12-11,Headphones,Accessories,Europe,675.53,137.41,3,0.25,2026.59
+ORD00259,2023-01-27,Printer,Accessories,Europe,175.54,47.04,4,0.1,702.16
+ORD00260,2023-06-18,Monitor,Accessories,Africa,1878.96,475.54,1,0.15,1878.96
+ORD00261,2023-05-04,Laptop,Electronics,North America,1429.16,82.97,3,0.15,4287.4800000000005
+ORD00262,2023-05-17,Mouse,Office Equipment,Europe,632.36,36.8,5,0.05,3161.8
+ORD00263,2024-01-24,Smartphone,Accessories,Asia,1944.81,155.79,2,0.15,3889.62
+ORD00264,2023-08-18,Monitor,Accessories,North America,1609.43,151.07,1,0.25,1609.43
+ORD00265,2023-04-20,Printer,Accessories,South America,1994.16,394.18,5,0.15,9970.800000000001
+ORD00266,2023-03-05,Laptop,Accessories,Asia,1990.3,584.85,2,0.25,3980.6
+ORD00267,2023-05-27,Smartphone,Accessories,South America,1008.59,288.78,3,0.2,3025.77
+ORD00268,2023-10-22,Keyboard,Office Equipment,Asia,517.05,93.76,3,0.1,1551.1499999999999
+ORD00269,2023-07-09,Monitor,Electronics,North America,1608.32,277.73,4,0.25,6433.28
+ORD00270,2023-12-11,Smartphone,Office Equipment,Europe,444.71,54.09,1,0.15,444.71
+ORD00271,2023-06-09,Monitor,Office Equipment,North America,618.39,40.29,1,0.1,618.39
+ORD00272,2023-11-29,Monitor,Office Equipment,Asia,822.95,230.51,2,0.15,1645.9
+ORD00273,2023-12-28,Keyboard,Office Equipment,Europe,1707.21,196.03,1,0.2,1707.21
+ORD00274,2023-07-17,Printer,Office Equipment,North America,1163.57,108.89,1,0.05,1163.57
+ORD00275,2023-11-12,Laptop,Accessories,Europe,1133.55,291.29,2,0.15,2267.1
+ORD00276,2024-02-21,Tablet,Accessories,North America,1505.53,129.49,4,0.25,6022.12
+ORD00277,2023-04-20,Laptop,Electronics,South America,1566.34,418.47,3,0.2,4699.0199999999995
+ORD00278,2023-04-18,Mouse,Office Equipment,Africa,525.56,54.11,3,0.05,1576.6799999999998
+ORD00279,2023-03-16,Printer,Electronics,North America,1326.92,227.24,4,0.15,5307.68
+ORD00280,2023-06-10,Mouse,Office Equipment,Africa,747.36,61.89,3,0.25,2242.08
+ORD00281,2023-11-09,Monitor,Accessories,Asia,1550.29,345.79,5,0.25,7751.45
+ORD00282,2023-09-19,Laptop,Electronics,Africa,304.23,34.32,1,0.15,304.23
+ORD00283,2023-04-04,Smartphone,Office Equipment,Asia,1284.91,139.04,3,0.2,3854.7300000000005
+ORD00284,2023-12-26,Laptop,Accessories,Africa,691.24,91.33,1,0.05,691.24
+ORD00285,2023-10-29,Keyboard,Accessories,Asia,1512.38,392.69,2,0.15,3024.76
+ORD00286,2023-02-28,Headphones,Electronics,Africa,892.37,81.68,2,0.1,1784.74
+ORD00287,2024-01-27,Smartphone,Office Equipment,North America,382.56,84.64,2,0.1,765.12
+ORD00288,2023-10-10,Headphones,Office Equipment,Europe,1041.63,202.91,4,0.1,4166.52
+ORD00289,2023-11-21,Smartphone,Office Equipment,Europe,1823.45,360.36,5,0.05,9117.25
+ORD00290,2023-12-02,Monitor,Accessories,Europe,382.51,26.81,1,0.2,382.51
+ORD00291,2023-03-29,Headphones,Accessories,Europe,484.04,51.33,2,0.15,968.08
+ORD00292,2023-11-14,Mouse,Accessories,North America,1001.76,198.31,2,0.15,2003.52
+ORD00293,2023-06-29,Headphones,Accessories,North America,599.21,96.41,5,0.25,2996.05
+ORD00294,2023-10-17,Keyboard,Accessories,North America,1386.56,89.99,5,0.15,6932.799999999999
+ORD00295,2023-10-23,Monitor,Electronics,Africa,446.1,84.36,2,0.2,892.2
+ORD00296,2023-05-17,Printer,Office Equipment,Europe,1320.65,178.89,1,0.2,1320.65
+ORD00297,2023-06-29,Tablet,Office Equipment,North America,780.07,173.47,1,0.15,780.07
+ORD00298,2024-02-10,Smartphone,Electronics,South America,363.13,50.5,2,0.2,726.26
+ORD00299,2023-06-22,Laptop,Office Equipment,Africa,715.51,130.66,1,0.25,715.51
+ORD00300,2023-08-19,Smartphone,Office Equipment,Asia,931.34,166.98,2,0.05,1862.68
+ORD00301,2023-02-27,Keyboard,Accessories,Africa,1483.67,418.22,5,0.05,7418.35
+ORD00302,2023-04-19,Headphones,Electronics,South America,1391.94,146.22,2,0.2,2783.88
+ORD00303,2023-11-08,Mouse,Office Equipment,South America,1264.58,183.83,1,0.15,1264.58
+ORD00304,2023-07-04,Mouse,Office Equipment,Asia,457.09,108.99,3,0.25,1371.27
+ORD00305,2023-07-01,Mouse,Electronics,North America,1656.58,85.81,5,0.25,8282.9
+ORD00306,2023-01-31,Mouse,Accessories,Africa,300.11,58.9,3,0.15,900.33
+ORD00307,2023-04-20,Tablet,Office Equipment,Africa,513.74,148.35,2,0.1,1027.48
+ORD00308,2023-05-19,Keyboard,Office Equipment,Europe,103.96,17.64,5,0.15,519.8
+ORD00309,2023-04-07,Monitor,Accessories,Asia,290.72,50.63,3,0.15,872.1600000000001
+ORD00310,2023-05-07,Tablet,Office Equipment,North America,1506.83,447.74,1,0.15,1506.83
+ORD00311,2023-06-23,Tablet,Accessories,Africa,1465.38,398.11,1,0.25,1465.38
+ORD00312,2023-12-05,Printer,Office Equipment,Asia,53.95,16.01,5,0.05,269.75
+ORD00313,2023-02-24,Smartphone,Office Equipment,Asia,523.32,61.63,1,0.2,523.32
+ORD00314,2023-11-20,Printer,Electronics,Europe,674.0,201.35,2,0.1,1348.0
+ORD00315,2024-01-14,Headphones,Accessories,South America,225.96,62.65,4,0.15,903.84
+ORD00316,2024-01-22,Headphones,Electronics,Europe,62.22,10.01,2,0.2,124.44
+ORD00317,2023-01-31,Monitor,Accessories,Africa,1890.09,516.44,1,0.15,1890.09
+ORD00318,2023-03-09,Laptop,Office Equipment,North America,1445.66,144.84,1,0.1,1445.66
+ORD00319,2023-03-29,Tablet,Office Equipment,North America,1400.44,171.42,4,0.2,5601.76
+ORD00320,2023-08-01,Mouse,Accessories,South America,440.42,127.37,1,0.2,440.42
+ORD00321,2023-01-27,Printer,Accessories,North America,54.78,15.24,5,0.05,273.9
+ORD00322,2023-06-24,Monitor,Office Equipment,Asia,1049.34,124.01,4,0.2,4197.36
+ORD00323,2023-10-19,Smartphone,Accessories,Asia,982.73,79.76,2,0.15,1965.46
+ORD00324,2023-08-24,Tablet,Office Equipment,South America,1631.69,466.09,2,0.05,3263.38
+ORD00325,2023-04-27,Printer,Accessories,Europe,1592.1,391.96,5,0.25,7960.5
+ORD00326,2023-06-20,Smartphone,Office Equipment,Asia,260.38,66.61,3,0.2,781.14
+ORD00327,2023-08-01,Monitor,Office Equipment,North America,1811.39,511.71,5,0.05,9056.95
+ORD00328,2023-05-21,Headphones,Electronics,Africa,909.69,104.75,2,0.05,1819.38
+ORD00329,2023-03-11,Monitor,Electronics,North America,1524.39,202.63,3,0.05,4573.17
+ORD00330,2023-01-31,Printer,Electronics,Europe,789.52,174.1,5,0.2,3947.6
+ORD00331,2023-11-07,Keyboard,Electronics,Europe,1242.38,331.38,2,0.05,2484.76
+ORD00332,2023-08-30,Printer,Accessories,Europe,748.75,154.72,5,0.25,3743.75
+ORD00333,2024-02-25,Mouse,Electronics,Africa,1062.45,130.54,3,0.2,3187.3500000000004
+ORD00334,2023-02-19,Mouse,Office Equipment,North America,181.76,35.01,5,0.05,908.8
+ORD00335,2024-01-29,Monitor,Accessories,South America,305.94,85.38,5,0.25,1529.7
+ORD00336,2023-06-02,Headphones,Office Equipment,South America,1158.33,340.76,3,0.2,3474.99
+ORD00337,2023-07-23,Headphones,Electronics,Asia,385.48,106.46,5,0.15,1927.4
+ORD00338,2023-11-02,Monitor,Office Equipment,Asia,63.17,5.76,3,0.05,189.51
+ORD00339,2023-09-12,Laptop,Office Equipment,South America,1455.42,317.04,1,0.15,1455.42
+ORD00340,2023-05-30,Monitor,Accessories,South America,1429.42,155.62,4,0.25,5717.68
+ORD00341,2023-12-21,Headphones,Accessories,Africa,275.79,74.71,1,0.05,275.79
+ORD00342,2023-05-23,Headphones,Electronics,South America,1221.05,101.24,2,0.25,2442.1
+ORD00343,2023-01-07,Keyboard,Accessories,Africa,818.07,217.98,4,0.15,3272.28
+ORD00344,2023-02-26,Tablet,Office Equipment,North America,631.45,141.74,4,0.25,2525.8
+ORD00345,2023-04-17,Keyboard,Accessories,Asia,1291.73,332.45,3,0.2,3875.19
+ORD00346,2024-02-17,Printer,Electronics,Europe,1802.48,152.94,1,0.05,1802.48
+ORD00347,2023-06-22,Monitor,Accessories,North America,1301.23,225.58,1,0.05,1301.23
+ORD00348,2023-03-30,Monitor,Accessories,South America,1361.27,164.01,5,0.25,6806.35
+ORD00349,2023-05-20,Printer,Accessories,North America,114.42,27.56,2,0.1,228.84
+ORD00350,2023-06-08,Monitor,Electronics,Europe,406.66,107.8,2,0.2,813.32
+ORD00351,2023-06-21,Mouse,Electronics,Asia,483.61,53.08,1,0.2,483.61
+ORD00352,2023-12-17,Laptop,Office Equipment,North America,1975.68,318.89,3,0.1,5927.04
+ORD00353,2023-08-11,Laptop,Electronics,Africa,1529.48,122.26,2,0.1,3058.96
+ORD00354,2023-07-17,Headphones,Office Equipment,Europe,1736.98,446.29,2,0.05,3473.96
+ORD00355,2023-03-03,Mouse,Accessories,Africa,562.18,132.1,4,0.05,2248.72
+ORD00356,2023-11-13,Laptop,Electronics,Africa,252.4,67.36,5,0.25,1262.0
+ORD00357,2023-02-24,Printer,Electronics,North America,599.06,172.5,1,0.25,599.06
+ORD00358,2023-04-14,Laptop,Accessories,Europe,1701.67,107.09,3,0.1,5105.01
+ORD00359,2023-03-02,Headphones,Accessories,North America,1571.54,155.1,3,0.15,4714.62
+ORD00360,2023-08-26,Smartphone,Electronics,North America,126.46,11.47,2,0.25,252.92
+ORD00361,2024-01-16,Smartphone,Office Equipment,Europe,1809.41,455.81,5,0.05,9047.050000000001
+ORD00362,2023-03-12,Smartphone,Accessories,South America,1695.07,364.27,3,0.25,5085.21
+ORD00363,2023-09-09,Laptop,Office Equipment,Africa,290.14,72.19,4,0.25,1160.56
+ORD00364,2023-05-16,Tablet,Electronics,North America,604.46,70.93,5,0.15,3022.3
+ORD00365,2023-02-05,Headphones,Office Equipment,North America,197.73,38.8,4,0.05,790.92
+ORD00366,2023-07-10,Mouse,Office Equipment,North America,1379.24,396.05,3,0.2,4137.72
+ORD00367,2023-07-09,Headphones,Electronics,Asia,1451.08,375.21,1,0.15,1451.08
+ORD00368,2023-01-02,Laptop,Electronics,North America,409.81,46.65,4,0.2,1639.24
+ORD00369,2023-09-02,Headphones,Office Equipment,Africa,567.16,41.91,4,0.2,2268.64
+ORD00370,2023-07-04,Smartphone,Office Equipment,South America,108.25,5.56,5,0.05,541.25
+ORD00371,2023-12-08,Monitor,Office Equipment,Europe,388.06,20.24,1,0.25,388.06
+ORD00372,2023-10-10,Laptop,Electronics,Africa,1920.92,372.54,5,0.05,9604.6
+ORD00373,2023-01-18,Tablet,Accessories,Europe,161.22,38.72,1,0.05,161.22
+ORD00374,2023-12-15,Tablet,Office Equipment,North America,1635.8,301.05,2,0.1,3271.6
+ORD00375,2023-11-28,Printer,Office Equipment,South America,1756.21,358.61,5,0.25,8781.05
+ORD00376,2023-10-14,Laptop,Accessories,Europe,1199.3,314.76,5,0.25,5996.5
+ORD00377,2023-11-17,Headphones,Electronics,Asia,1804.07,349.95,2,0.2,3608.14
+ORD00378,2023-08-07,Monitor,Accessories,South America,1677.32,118.66,1,0.2,1677.32
+ORD00379,2023-05-02,Keyboard,Electronics,Asia,1600.0,96.54,2,0.1,3200.0
+ORD00380,2023-01-28,Smartphone,Accessories,Asia,1160.75,230.31,4,0.2,4643.0
+ORD00381,2024-01-02,Keyboard,Accessories,Africa,1582.36,383.42,2,0.25,3164.72
+ORD00382,2023-02-01,Smartphone,Office Equipment,Europe,673.66,56.7,5,0.15,3368.2999999999997
+ORD00383,2024-01-22,Keyboard,Electronics,South America,457.06,24.93,3,0.1,1371.18
+ORD00384,2023-04-30,Headphones,Electronics,Africa,734.89,96.34,4,0.2,2939.56
+ORD00385,2023-04-29,Headphones,Accessories,Africa,165.81,25.14,5,0.2,829.05
+ORD00386,2024-01-06,Headphones,Office Equipment,Asia,669.98,47.83,4,0.15,2679.92
+ORD00387,2023-09-13,Smartphone,Office Equipment,Africa,1112.28,64.6,1,0.1,1112.28
+ORD00388,2023-01-13,Laptop,Accessories,Europe,149.36,15.41,1,0.15,149.36
+ORD00389,2023-09-12,Laptop,Electronics,Africa,1066.2,240.08,1,0.25,1066.2
+ORD00390,2023-06-15,Tablet,Office Equipment,Africa,1203.55,213.26,4,0.2,4814.2
+ORD00391,2023-06-18,Tablet,Electronics,Europe,815.92,174.81,1,0.1,815.92
+ORD00392,2023-03-17,Headphones,Office Equipment,Africa,1459.91,306.64,5,0.1,7299.55
+ORD00393,2023-01-31,Keyboard,Electronics,Asia,503.68,75.79,5,0.2,2518.4
+ORD00394,2024-02-27,Tablet,Office Equipment,Europe,541.73,83.59,4,0.1,2166.92
+ORD00395,2023-09-28,Laptop,Accessories,South America,1806.95,503.55,2,0.15,3613.9
+ORD00396,2023-11-02,Printer,Office Equipment,Europe,172.08,9.19,5,0.25,860.4000000000001
+ORD00397,2023-02-01,Smartphone,Accessories,Asia,72.66,12.96,5,0.05,363.29999999999995
+ORD00398,2023-08-09,Laptop,Office Equipment,Asia,1319.37,97.09,1,0.2,1319.37
+ORD00399,2024-02-28,Printer,Accessories,Europe,302.78,60.31,1,0.1,302.78
+ORD00400,2023-09-25,Monitor,Electronics,Africa,1554.9,416.59,2,0.25,3109.8
+ORD00401,2023-03-30,Laptop,Electronics,South America,118.15,19.67,4,0.05,472.6
+ORD00402,2023-07-13,Tablet,Office Equipment,Africa,692.05,122.35,3,0.2,2076.1499999999996
+ORD00403,2023-08-18,Keyboard,Accessories,Asia,1767.57,181.1,4,0.25,7070.28
+ORD00404,2023-05-16,Smartphone,Office Equipment,North America,1846.25,332.68,5,0.25,9231.25
+ORD00405,2023-09-19,Laptop,Accessories,North America,1043.16,270.66,3,0.1,3129.4800000000005
+ORD00406,2023-08-01,Laptop,Accessories,Africa,435.58,71.87,3,0.05,1306.74
+ORD00407,2023-10-23,Monitor,Electronics,Europe,1493.54,365.93,4,0.05,5974.16
+ORD00408,2023-03-06,Tablet,Electronics,Africa,1108.07,99.27,3,0.2,3324.21
+ORD00409,2023-09-30,Smartphone,Office Equipment,South America,1656.55,92.74,3,0.25,4969.65
+ORD00410,2023-06-14,Monitor,Office Equipment,Africa,1489.94,143.16,1,0.15,1489.94
+ORD00411,2023-08-28,Laptop,Office Equipment,South America,733.49,97.73,1,0.1,733.49
+ORD00412,2023-01-18,Laptop,Accessories,South America,1483.8,151.61,5,0.2,7419.0
+ORD00413,2023-08-25,Smartphone,Electronics,Africa,840.87,179.45,2,0.25,1681.74
+ORD00414,2023-02-17,Laptop,Electronics,Europe,1170.8,184.43,2,0.15,2341.6
+ORD00415,2023-03-12,Keyboard,Electronics,Africa,795.63,215.23,5,0.25,3978.15
+ORD00416,2024-02-27,Monitor,Accessories,Asia,1144.91,296.73,1,0.1,1144.91
+ORD00417,2024-02-13,Tablet,Electronics,Africa,948.16,156.49,4,0.2,3792.64
+ORD00418,2023-02-27,Printer,Accessories,Africa,171.89,31.79,1,0.2,171.89
+ORD00419,2023-11-03,Headphones,Office Equipment,Asia,622.27,174.84,2,0.15,1244.54
+ORD00420,2023-11-26,Keyboard,Accessories,Europe,1659.07,305.26,3,0.05,4977.21
+ORD00421,2023-06-13,Headphones,Office Equipment,South America,288.75,75.44,1,0.1,288.75
+ORD00422,2023-10-15,Monitor,Office Equipment,Europe,1729.09,254.12,3,0.2,5187.2699999999995
+ORD00423,2023-01-16,Tablet,Accessories,North America,959.88,139.04,2,0.05,1919.76
+ORD00424,2023-04-15,Laptop,Accessories,Asia,1940.18,503.6,5,0.1,9700.9
+ORD00425,2023-12-10,Smartphone,Electronics,Asia,1424.99,108.91,3,0.1,4274.97
+ORD00426,2023-11-06,Printer,Electronics,North America,835.44,57.93,5,0.05,4177.200000000001
+ORD00427,2023-05-25,Printer,Office Equipment,South America,1241.19,271.65,5,0.15,6205.950000000001
+ORD00428,2023-07-31,Laptop,Accessories,Europe,488.1,133.59,3,0.15,1464.3000000000002
+ORD00429,2023-10-18,Smartphone,Office Equipment,Asia,1145.64,219.08,1,0.1,1145.64
+ORD00430,2023-07-04,Laptop,Office Equipment,Europe,1968.53,225.55,2,0.1,3937.06
+ORD00431,2023-02-07,Keyboard,Accessories,North America,1740.6,136.04,5,0.25,8703.0
+ORD00432,2023-04-17,Laptop,Office Equipment,Africa,1123.06,74.89,1,0.05,1123.06
+ORD00433,2023-12-16,Headphones,Electronics,Asia,50.82,9.69,1,0.2,50.82
+ORD00434,2023-12-11,Mouse,Office Equipment,Europe,929.32,130.88,5,0.05,4646.6
+ORD00435,2023-04-05,Smartphone,Electronics,North America,1058.07,102.76,1,0.05,1058.07
+ORD00436,2024-01-27,Laptop,Accessories,North America,1253.38,258.24,1,0.25,1253.38
+ORD00437,2023-02-19,Keyboard,Accessories,Asia,1839.28,540.91,3,0.1,5517.84
+ORD00438,2023-12-03,Printer,Office Equipment,North America,1154.99,156.62,1,0.25,1154.99
+ORD00439,2023-03-29,Laptop,Office Equipment,South America,1654.31,405.57,3,0.25,4962.93
+ORD00440,2023-11-12,Tablet,Office Equipment,North America,1809.76,335.15,2,0.05,3619.52
+ORD00441,2023-05-29,Laptop,Office Equipment,Africa,1091.47,137.36,3,0.05,3274.41
+ORD00442,2023-08-01,Tablet,Office Equipment,Europe,514.54,118.72,3,0.2,1543.62
+ORD00443,2023-10-01,Mouse,Office Equipment,Africa,154.4,38.24,4,0.15,617.6
+ORD00444,2023-03-25,Printer,Office Equipment,South America,769.89,218.56,5,0.1,3849.45
+ORD00445,2023-07-28,Keyboard,Accessories,South America,1457.34,128.6,4,0.1,5829.36
+ORD00446,2023-11-07,Keyboard,Electronics,North America,802.44,191.71,4,0.25,3209.76
+ORD00447,2024-02-16,Printer,Electronics,Africa,417.41,104.52,4,0.15,1669.64
+ORD00448,2024-02-19,Keyboard,Office Equipment,Africa,1679.27,423.46,4,0.2,6717.08
+ORD00449,2023-10-13,Laptop,Electronics,Africa,546.18,41.52,1,0.25,546.18
+ORD00450,2023-09-08,Headphones,Office Equipment,South America,263.97,22.18,1,0.05,263.97
+ORD00451,2023-04-19,Keyboard,Office Equipment,Europe,660.35,45.91,1,0.15,660.35
+ORD00452,2023-01-22,Monitor,Electronics,South America,849.6,229.42,2,0.15,1699.2
+ORD00453,2023-10-11,Keyboard,Accessories,Europe,1705.3,442.87,4,0.05,6821.2
+ORD00454,2023-07-17,Mouse,Accessories,South America,443.24,76.68,3,0.05,1329.72
+ORD00455,2023-05-19,Printer,Electronics,Asia,1455.92,340.94,3,0.2,4367.76
+ORD00456,2023-06-02,Headphones,Accessories,South America,1440.44,378.56,4,0.05,5761.76
+ORD00457,2023-09-15,Tablet,Office Equipment,Asia,360.66,76.36,1,0.05,360.66
+ORD00458,2023-02-21,Monitor,Office Equipment,Europe,540.92,116.15,4,0.05,2163.68
+ORD00459,2023-04-25,Headphones,Office Equipment,Europe,546.04,154.81,4,0.1,2184.16
+ORD00460,2023-01-13,Tablet,Office Equipment,Europe,172.7,30.75,5,0.15,863.5
+ORD00461,2023-10-20,Tablet,Office Equipment,South America,1238.29,245.15,2,0.05,2476.58
+ORD00462,2023-06-17,Mouse,Office Equipment,Europe,185.5,23.0,4,0.15,742.0
+ORD00463,2023-02-24,Smartphone,Accessories,North America,305.04,25.14,5,0.05,1525.2
+ORD00464,2023-05-31,Tablet,Electronics,North America,1638.06,135.39,2,0.05,3276.12
+ORD00465,2023-12-31,Headphones,Office Equipment,Asia,1660.7,95.01,1,0.25,1660.7
+ORD00466,2023-05-06,Laptop,Office Equipment,North America,1820.93,324.83,5,0.2,9104.65
+ORD00467,2023-04-13,Monitor,Accessories,South America,1007.87,211.7,4,0.05,4031.48
+ORD00468,2023-03-12,Monitor,Office Equipment,Asia,251.46,62.8,1,0.2,251.46
+ORD00469,2023-12-11,Tablet,Electronics,North America,645.51,125.38,4,0.05,2582.04
+ORD00470,2024-02-05,Keyboard,Accessories,Europe,752.17,162.77,1,0.15,752.17
+ORD00471,2023-03-12,Smartphone,Office Equipment,Africa,1866.84,95.11,2,0.15,3733.68
+ORD00472,2023-02-19,Mouse,Electronics,Africa,1205.17,87.33,3,0.05,3615.51
+ORD00473,2023-09-12,Keyboard,Accessories,Africa,261.92,55.08,5,0.15,1309.6000000000001
+ORD00474,2023-05-01,Mouse,Electronics,Europe,56.54,12.52,4,0.15,226.16
+ORD00475,2023-12-30,Monitor,Office Equipment,Africa,1585.09,196.51,3,0.25,4755.2699999999995
+ORD00476,2023-04-22,Monitor,Electronics,Europe,999.62,143.75,4,0.25,3998.48
+ORD00477,2023-09-13,Laptop,Office Equipment,North America,462.41,136.81,4,0.05,1849.64
+ORD00478,2023-03-19,Keyboard,Office Equipment,North America,1679.82,116.67,1,0.05,1679.82
+ORD00479,2023-11-18,Tablet,Office Equipment,North America,132.48,39.35,3,0.1,397.43999999999994
+ORD00480,2023-08-09,Keyboard,Office Equipment,Africa,494.15,64.97,2,0.15,988.3
+ORD00481,2023-05-16,Printer,Office Equipment,Africa,1100.31,78.19,1,0.15,1100.31
+ORD00482,2024-02-17,Tablet,Office Equipment,Europe,163.77,20.0,2,0.2,327.54
+ORD00483,2023-10-25,Laptop,Accessories,Europe,767.44,79.68,5,0.1,3837.2000000000003
+ORD00484,2023-11-26,Headphones,Electronics,Europe,1075.55,209.52,2,0.05,2151.1
+ORD00485,2023-04-13,Tablet,Office Equipment,South America,58.5,7.67,1,0.2,58.5
+ORD00486,2023-10-13,Laptop,Office Equipment,Africa,942.96,196.98,4,0.1,3771.84
+ORD00487,2023-02-27,Monitor,Electronics,North America,694.29,197.28,2,0.25,1388.58
+ORD00488,2023-10-05,Keyboard,Accessories,North America,1561.53,412.86,2,0.15,3123.06
+ORD00489,2023-11-14,Monitor,Electronics,North America,1556.32,186.83,3,0.1,4668.96
+ORD00490,2023-11-05,Smartphone,Accessories,Asia,1329.71,222.22,5,0.15,6648.55
+ORD00491,2023-02-21,Laptop,Accessories,South America,289.61,84.05,2,0.15,579.22
+ORD00492,2023-06-21,Laptop,Accessories,Asia,940.56,212.85,3,0.05,2821.68
+ORD00493,2023-12-13,Monitor,Electronics,Asia,529.62,72.75,1,0.2,529.62
+ORD00494,2024-01-21,Laptop,Electronics,South America,1613.39,249.81,3,0.25,4840.17
+ORD00495,2023-03-04,Keyboard,Electronics,South America,1479.49,404.31,4,0.05,5917.96
+ORD00496,2024-01-02,Keyboard,Electronics,Africa,1835.54,329.56,4,0.2,7342.16
+ORD00497,2023-04-21,Headphones,Accessories,Asia,687.75,110.52,5,0.05,3438.75
+ORD00498,2023-11-16,Keyboard,Accessories,Asia,1282.38,342.71,1,0.1,1282.38
+ORD00499,2023-09-24,Tablet,Office Equipment,North America,1761.52,344.9,3,0.05,5284.5599999999995
+ORD00500,2024-02-12,Monitor,Accessories,Asia,1938.41,553.37,2,0.05,3876.82
+ORD00501,2023-01-03,Tablet,Office Equipment,South America,1821.62,387.15,4,0.25,7286.48
+ORD00502,2023-07-10,Laptop,Electronics,Africa,1531.32,94.46,5,0.1,7656.599999999999
+ORD00503,2023-06-12,Smartphone,Electronics,Asia,1629.38,298.46,5,0.05,8146.900000000001
+ORD00504,2023-06-09,Keyboard,Electronics,South America,1899.54,244.81,4,0.15,7598.16
+ORD00505,2023-12-19,Tablet,Electronics,South America,1236.06,368.12,1,0.1,1236.06
+ORD00506,2023-06-19,Tablet,Accessories,North America,488.25,126.48,3,0.15,1464.75
+ORD00507,2023-02-05,Monitor,Electronics,Africa,234.71,45.83,5,0.2,1173.55
+ORD00508,2023-12-18,Mouse,Accessories,Asia,361.36,65.23,4,0.1,1445.44
+ORD00509,2023-12-07,Laptop,Accessories,Africa,101.78,9.97,5,0.05,508.9
+ORD00510,2023-11-09,Tablet,Accessories,Africa,833.82,121.5,3,0.1,2501.46
+ORD00511,2023-09-02,Smartphone,Electronics,South America,1031.57,95.9,5,0.1,5157.849999999999
+ORD00512,2023-03-16,Mouse,Accessories,South America,1471.67,330.11,1,0.2,1471.67
+ORD00513,2023-10-22,Smartphone,Accessories,Asia,1028.26,79.95,4,0.25,4113.04
+ORD00514,2023-01-15,Mouse,Electronics,North America,538.82,100.07,2,0.15,1077.64
+ORD00515,2023-03-17,Mouse,Electronics,Asia,1813.61,388.54,2,0.05,3627.22
+ORD00516,2023-01-27,Monitor,Electronics,Europe,1244.42,331.05,2,0.15,2488.84
+ORD00517,2023-07-27,Monitor,Electronics,South America,1961.91,199.08,1,0.05,1961.91
+ORD00518,2024-02-26,Printer,Office Equipment,Asia,1659.77,394.46,5,0.1,8298.85
+ORD00519,2023-05-23,Printer,Electronics,North America,1556.93,313.86,5,0.1,7784.650000000001
+ORD00520,2023-12-06,Monitor,Electronics,Asia,1622.7,134.41,4,0.25,6490.8
+ORD00521,2024-02-15,Laptop,Office Equipment,North America,858.07,164.59,3,0.05,2574.21
+ORD00522,2023-05-15,Printer,Electronics,South America,95.6,7.01,4,0.25,382.4
+ORD00523,2023-02-07,Headphones,Electronics,South America,915.85,124.57,2,0.05,1831.7
+ORD00524,2023-11-24,Laptop,Office Equipment,South America,1744.99,434.72,1,0.2,1744.99
+ORD00525,2023-04-16,Laptop,Accessories,Asia,330.93,16.6,4,0.1,1323.72
+ORD00526,2023-04-12,Smartphone,Electronics,Europe,1727.12,516.54,2,0.15,3454.24
+ORD00527,2023-10-30,Smartphone,Office Equipment,South America,418.03,114.85,5,0.05,2090.1499999999996
+ORD00528,2023-02-25,Keyboard,Office Equipment,Europe,880.21,238.54,5,0.05,4401.05
+ORD00529,2023-09-24,Printer,Accessories,Europe,394.38,111.3,2,0.15,788.76
+ORD00530,2023-05-10,Headphones,Accessories,Asia,812.85,174.19,5,0.25,4064.25
+ORD00531,2024-01-01,Keyboard,Office Equipment,North America,360.19,27.85,2,0.2,720.38
+ORD00532,2023-09-15,Laptop,Office Equipment,South America,1129.86,121.83,2,0.15,2259.72
+ORD00533,2023-11-19,Keyboard,Accessories,South America,895.0,166.37,1,0.15,895.0
+ORD00534,2024-01-12,Laptop,Office Equipment,North America,1281.02,103.91,2,0.15,2562.04
+ORD00535,2023-06-23,Smartphone,Accessories,Asia,423.34,40.64,2,0.25,846.68
+ORD00536,2023-05-03,Mouse,Accessories,Europe,1272.5,295.68,2,0.2,2545.0
+ORD00537,2023-09-04,Printer,Accessories,North America,1842.48,245.09,4,0.1,7369.92
+ORD00538,2023-07-27,Laptop,Electronics,Europe,1567.55,80.79,2,0.25,3135.1
+ORD00539,2023-01-30,Keyboard,Accessories,Africa,779.04,135.68,3,0.15,2337.12
+ORD00540,2023-06-28,Mouse,Electronics,Asia,221.96,28.46,3,0.25,665.88
+ORD00541,2023-02-26,Printer,Electronics,Asia,1297.95,143.54,3,0.1,3893.8500000000004
+ORD00542,2023-11-23,Smartphone,Accessories,South America,1994.17,463.08,3,0.1,5982.51
+ORD00543,2023-05-22,Monitor,Office Equipment,Africa,1616.18,319.3,1,0.25,1616.18
+ORD00544,2023-06-13,Laptop,Office Equipment,South America,634.04,68.61,3,0.25,1902.12
+ORD00545,2023-08-05,Headphones,Accessories,Europe,223.03,50.56,3,0.05,669.09
+ORD00546,2023-09-24,Laptop,Accessories,Asia,1212.3,68.73,4,0.25,4849.2
+ORD00547,2023-09-25,Keyboard,Office Equipment,Asia,1245.79,204.11,3,0.1,3737.37
+ORD00548,2023-10-02,Tablet,Electronics,Asia,265.01,68.57,1,0.15,265.01
+ORD00549,2023-05-04,Printer,Electronics,Europe,810.57,181.22,1,0.1,810.57
+ORD00550,2023-05-10,Headphones,Accessories,Asia,1868.01,532.04,5,0.15,9340.05
+ORD00551,2023-05-23,Mouse,Office Equipment,Africa,1036.34,97.41,5,0.2,5181.7
+ORD00552,2023-04-06,Headphones,Office Equipment,Asia,809.07,67.66,4,0.25,3236.28
+ORD00553,2023-10-04,Smartphone,Office Equipment,Asia,425.87,60.17,3,0.25,1277.6100000000001
+ORD00554,2023-11-08,Mouse,Electronics,South America,882.14,45.5,2,0.05,1764.28
+ORD00555,2023-07-18,Keyboard,Electronics,Asia,1464.28,141.08,3,0.25,4392.84
+ORD00556,2023-12-17,Headphones,Electronics,Europe,457.91,40.58,2,0.25,915.82
+ORD00557,2023-10-14,Mouse,Electronics,Africa,919.88,61.28,1,0.1,919.88
+ORD00558,2023-05-20,Monitor,Accessories,Asia,391.09,92.87,5,0.1,1955.4499999999998
+ORD00559,2023-06-08,Keyboard,Electronics,North America,1055.45,165.51,4,0.1,4221.8
+ORD00560,2023-07-05,Headphones,Office Equipment,Europe,1126.21,315.13,3,0.05,3378.63
+ORD00561,2023-03-20,Tablet,Accessories,North America,1670.02,363.48,1,0.05,1670.02
+ORD00562,2023-04-15,Smartphone,Office Equipment,Europe,1825.69,226.67,5,0.25,9128.45
+ORD00563,2023-10-03,Mouse,Electronics,Asia,1235.69,122.73,5,0.25,6178.450000000001
+ORD00564,2023-12-17,Mouse,Office Equipment,Europe,290.59,51.54,1,0.25,290.59
+ORD00565,2023-08-31,Mouse,Office Equipment,Africa,1488.78,392.44,4,0.05,5955.12
+ORD00566,2023-11-07,Laptop,Electronics,Africa,241.88,42.68,3,0.2,725.64
+ORD00567,2023-01-12,Tablet,Office Equipment,Asia,1650.18,402.9,3,0.1,4950.54
+ORD00568,2023-09-21,Keyboard,Office Equipment,Africa,862.63,247.42,3,0.05,2587.89
+ORD00569,2023-08-02,Tablet,Office Equipment,Asia,245.51,60.2,3,0.1,736.53
+ORD00570,2024-01-18,Monitor,Electronics,North America,591.87,95.46,4,0.2,2367.48
+ORD00571,2023-10-25,Monitor,Accessories,North America,1841.43,542.92,4,0.05,7365.72
+ORD00572,2023-10-07,Smartphone,Accessories,South America,840.86,149.16,4,0.2,3363.44
+ORD00573,2023-02-19,Monitor,Office Equipment,North America,447.05,65.53,5,0.2,2235.25
+ORD00574,2023-05-29,Laptop,Electronics,Europe,222.23,46.54,3,0.15,666.6899999999999
+ORD00575,2024-02-07,Smartphone,Electronics,Europe,1049.04,267.68,1,0.25,1049.04
+ORD00576,2023-06-14,Keyboard,Electronics,Africa,511.83,30.67,4,0.2,2047.32
+ORD00577,2023-07-27,Headphones,Electronics,Asia,82.99,23.58,2,0.25,165.98
+ORD00578,2023-05-10,Tablet,Office Equipment,Europe,367.87,74.44,3,0.15,1103.6100000000001
+ORD00579,2023-09-05,Tablet,Office Equipment,South America,1665.96,459.88,4,0.05,6663.84
+ORD00580,2023-10-16,Laptop,Electronics,North America,1444.55,366.71,3,0.05,4333.65
+ORD00581,2023-12-16,Laptop,Accessories,South America,1457.6,286.83,4,0.1,5830.4
+ORD00582,2023-08-05,Tablet,Office Equipment,North America,1753.3,116.76,1,0.25,1753.3
+ORD00583,2023-08-28,Printer,Office Equipment,South America,1506.05,326.33,5,0.15,7530.25
+ORD00584,2023-12-19,Headphones,Office Equipment,Europe,1049.03,90.32,4,0.05,4196.12
+ORD00585,2023-04-28,Printer,Accessories,South America,1066.62,281.67,3,0.2,3199.8599999999997
+ORD00586,2024-02-22,Printer,Accessories,South America,638.98,134.85,1,0.2,638.98
+ORD00587,2023-02-15,Printer,Accessories,Europe,1636.57,304.52,1,0.05,1636.57
+ORD00588,2023-10-26,Keyboard,Electronics,Europe,623.48,68.86,4,0.1,2493.92
+ORD00589,2024-01-16,Keyboard,Accessories,North America,1068.99,202.66,4,0.15,4275.96
+ORD00590,2023-04-18,Tablet,Office Equipment,South America,1614.83,396.57,4,0.25,6459.32
+ORD00591,2023-10-25,Printer,Office Equipment,Asia,1290.81,247.31,1,0.05,1290.81
+ORD00592,2023-06-20,Printer,Electronics,Africa,866.91,120.23,2,0.1,1733.82
+ORD00593,2023-12-19,Monitor,Office Equipment,Africa,865.77,131.76,4,0.25,3463.08
+ORD00594,2024-01-29,Monitor,Office Equipment,South America,677.46,139.42,2,0.2,1354.92
+ORD00595,2023-02-07,Keyboard,Accessories,Europe,1193.98,286.05,2,0.25,2387.96
+ORD00596,2024-02-03,Monitor,Office Equipment,South America,1445.35,289.71,3,0.25,4336.049999999999
+ORD00597,2023-03-02,Smartphone,Office Equipment,Africa,796.98,130.22,2,0.25,1593.96
+ORD00598,2023-01-10,Smartphone,Electronics,South America,1348.42,311.22,4,0.25,5393.68
+ORD00599,2023-10-26,Monitor,Office Equipment,North America,355.3,101.12,5,0.05,1776.5
+ORD00600,2023-06-27,Tablet,Accessories,North America,1962.82,411.93,1,0.1,1962.82
+ORD00601,2023-04-11,Printer,Electronics,Asia,931.08,220.65,5,0.15,4655.400000000001
+ORD00602,2023-11-25,Tablet,Electronics,Asia,743.71,187.17,2,0.05,1487.42
+ORD00603,2023-11-19,Smartphone,Electronics,South America,1388.34,90.2,4,0.05,5553.36
+ORD00604,2023-07-08,Mouse,Accessories,Europe,1199.9,66.48,4,0.15,4799.6
+ORD00605,2023-03-13,Smartphone,Office Equipment,North America,1461.57,264.49,4,0.1,5846.28
+ORD00606,2023-11-04,Keyboard,Accessories,North America,878.42,257.79,1,0.05,878.42
+ORD00607,2023-08-21,Monitor,Office Equipment,North America,383.14,70.45,5,0.05,1915.6999999999998
+ORD00608,2023-05-02,Tablet,Electronics,Europe,182.68,35.32,1,0.1,182.68
+ORD00609,2023-04-05,Headphones,Electronics,Asia,389.49,112.9,5,0.15,1947.45
+ORD00610,2023-03-29,Monitor,Office Equipment,Asia,1162.99,145.35,5,0.05,5814.95
+ORD00611,2023-04-02,Keyboard,Electronics,North America,1639.54,258.98,3,0.2,4918.62
+ORD00612,2023-03-01,Smartphone,Office Equipment,South America,1573.2,207.78,2,0.25,3146.4
+ORD00613,2023-01-15,Tablet,Accessories,North America,737.42,220.63,3,0.25,2212.2599999999998
+ORD00614,2023-12-07,Keyboard,Accessories,Asia,1187.91,304.1,4,0.1,4751.64
+ORD00615,2023-06-05,Mouse,Office Equipment,North America,960.74,196.94,4,0.05,3842.96
+ORD00616,2023-12-22,Tablet,Office Equipment,Africa,81.05,10.66,5,0.2,405.25
+ORD00617,2023-09-02,Headphones,Electronics,Europe,159.3,25.53,5,0.05,796.5
+ORD00618,2023-08-07,Printer,Accessories,Africa,1840.01,321.25,5,0.1,9200.05
+ORD00619,2023-06-24,Printer,Electronics,Africa,1135.42,226.53,1,0.2,1135.42
+ORD00620,2023-09-21,Laptop,Electronics,South America,864.67,183.75,3,0.2,2594.0099999999998
+ORD00621,2023-03-18,Keyboard,Office Equipment,North America,629.99,49.63,5,0.25,3149.95
+ORD00622,2023-12-04,Printer,Office Equipment,North America,137.2,29.89,3,0.05,411.59999999999997
+ORD00623,2023-03-03,Keyboard,Electronics,Europe,1355.74,378.43,5,0.25,6778.7
+ORD00624,2023-07-14,Tablet,Accessories,North America,686.31,137.88,1,0.2,686.31
+ORD00625,2023-08-18,Headphones,Electronics,Asia,1639.05,433.12,5,0.1,8195.25
+ORD00626,2024-01-26,Headphones,Electronics,South America,263.93,51.34,4,0.05,1055.72
+ORD00627,2023-09-09,Monitor,Accessories,Asia,393.87,113.19,5,0.05,1969.35
+ORD00628,2023-08-13,Laptop,Electronics,Asia,586.24,45.49,5,0.2,2931.2
+ORD00629,2023-09-29,Tablet,Electronics,Asia,1304.83,135.48,1,0.2,1304.83
+ORD00630,2023-11-19,Tablet,Electronics,North America,804.98,66.59,1,0.1,804.98
+ORD00631,2023-11-19,Keyboard,Accessories,Africa,1333.06,219.59,4,0.05,5332.24
+ORD00632,2023-12-03,Laptop,Accessories,Asia,1911.65,377.99,3,0.25,5734.950000000001
+ORD00633,2023-10-17,Smartphone,Electronics,Europe,1127.58,304.98,1,0.25,1127.58
+ORD00634,2023-02-25,Laptop,Accessories,South America,476.98,80.12,1,0.2,476.98
+ORD00635,2023-09-12,Monitor,Electronics,North America,707.09,152.99,4,0.1,2828.36
+ORD00636,2023-06-24,Printer,Accessories,Africa,1856.33,372.96,2,0.15,3712.66
+ORD00637,2024-02-08,Keyboard,Accessories,Asia,899.33,200.42,2,0.05,1798.66
+ORD00638,2023-02-08,Monitor,Electronics,North America,996.4,142.81,2,0.05,1992.8
+ORD00639,2024-01-02,Printer,Office Equipment,North America,501.54,144.78,3,0.1,1504.6200000000001
+ORD00640,2023-06-10,Headphones,Electronics,South America,650.25,164.66,1,0.15,650.25
+ORD00641,2023-08-17,Monitor,Accessories,Asia,1436.17,341.21,5,0.1,7180.85
+ORD00642,2023-01-01,Mouse,Office Equipment,North America,1477.23,441.76,1,0.05,1477.23
+ORD00643,2023-09-05,Printer,Office Equipment,Europe,69.1,17.06,4,0.2,276.4
+ORD00644,2023-03-10,Keyboard,Accessories,Europe,640.08,38.7,3,0.15,1920.2400000000002
+ORD00645,2023-05-29,Headphones,Accessories,Africa,287.65,63.93,5,0.15,1438.25
+ORD00646,2023-12-13,Smartphone,Accessories,Africa,1110.92,141.98,4,0.25,4443.68
+ORD00647,2023-09-16,Smartphone,Accessories,Africa,1488.53,208.58,4,0.25,5954.12
+ORD00648,2023-09-27,Smartphone,Office Equipment,Asia,744.17,88.62,2,0.1,1488.34
+ORD00649,2023-09-16,Monitor,Office Equipment,Europe,194.49,24.38,3,0.1,583.47
+ORD00650,2023-07-01,Printer,Accessories,North America,932.7,240.48,1,0.1,932.7
+ORD00651,2023-02-04,Keyboard,Accessories,South America,571.92,45.29,1,0.15,571.92
+ORD00652,2023-07-30,Tablet,Accessories,North America,767.13,198.36,4,0.25,3068.52
+ORD00653,2024-01-23,Tablet,Electronics,North America,716.76,108.24,1,0.25,716.76
+ORD00654,2023-06-13,Printer,Office Equipment,North America,874.51,46.8,1,0.15,874.51
+ORD00655,2023-03-19,Tablet,Office Equipment,North America,429.26,53.06,5,0.1,2146.3
+ORD00656,2023-01-28,Smartphone,Office Equipment,Africa,306.95,85.66,2,0.15,613.9
+ORD00657,2023-03-20,Monitor,Accessories,Europe,1256.43,129.12,1,0.2,1256.43
+ORD00658,2023-12-26,Tablet,Office Equipment,South America,1383.61,348.74,2,0.2,2767.22
+ORD00659,2023-09-08,Tablet,Electronics,Europe,105.13,30.15,3,0.05,315.39
+ORD00660,2023-09-01,Laptop,Accessories,Asia,1630.85,240.0,4,0.2,6523.4
+ORD00661,2023-05-19,Keyboard,Electronics,Africa,1308.72,73.17,2,0.15,2617.44
+ORD00662,2023-04-24,Keyboard,Accessories,Asia,968.23,240.84,4,0.05,3872.92
+ORD00663,2023-08-10,Monitor,Office Equipment,Europe,1703.74,360.6,2,0.2,3407.48
+ORD00664,2023-09-25,Smartphone,Electronics,Africa,425.93,59.16,1,0.2,425.93
+ORD00665,2023-07-08,Mouse,Electronics,Africa,1286.21,157.08,3,0.15,3858.63
+ORD00666,2024-01-09,Laptop,Accessories,South America,503.71,110.46,3,0.15,1511.1299999999999
+ORD00667,2024-02-15,Monitor,Accessories,North America,737.48,220.97,2,0.2,1474.96
+ORD00668,2023-03-12,Smartphone,Electronics,North America,1110.89,104.18,1,0.25,1110.89
+ORD00669,2023-05-02,Laptop,Accessories,North America,1170.47,331.29,5,0.1,5852.35
+ORD00670,2023-07-09,Mouse,Office Equipment,North America,1392.35,213.15,1,0.25,1392.35
+ORD00671,2023-09-09,Mouse,Accessories,Europe,975.13,237.13,3,0.15,2925.39
+ORD00672,2023-04-09,Monitor,Electronics,North America,332.39,47.96,1,0.25,332.39
+ORD00673,2023-03-21,Keyboard,Electronics,Asia,1236.63,265.8,1,0.15,1236.63
+ORD00674,2023-08-15,Smartphone,Office Equipment,Europe,678.53,64.75,4,0.25,2714.12
+ORD00675,2024-01-14,Monitor,Office Equipment,South America,1487.75,398.01,2,0.25,2975.5
+ORD00676,2023-01-10,Printer,Electronics,North America,186.32,15.3,5,0.05,931.5999999999999
+ORD00677,2023-12-01,Headphones,Electronics,Europe,222.7,40.52,1,0.1,222.7
+ORD00678,2023-02-02,Monitor,Electronics,North America,481.41,34.25,5,0.2,2407.05
+ORD00679,2023-10-27,Keyboard,Accessories,Asia,1448.99,338.82,5,0.1,7244.95
+ORD00680,2023-04-29,Monitor,Office Equipment,South America,262.16,38.42,5,0.05,1310.8000000000002
+ORD00681,2023-02-28,Smartphone,Office Equipment,North America,313.38,90.84,4,0.2,1253.52
+ORD00682,2023-04-10,Printer,Accessories,South America,247.19,26.56,3,0.25,741.5699999999999
+ORD00683,2023-05-08,Keyboard,Accessories,Asia,770.75,162.9,5,0.1,3853.75
+ORD00684,2023-11-06,Keyboard,Office Equipment,Africa,1878.93,527.27,4,0.2,7515.72
+ORD00685,2023-03-02,Tablet,Office Equipment,South America,513.42,112.55,2,0.15,1026.84
+ORD00686,2023-04-10,Monitor,Office Equipment,North America,1912.93,546.86,1,0.15,1912.93
+ORD00687,2023-09-11,Mouse,Electronics,South America,1680.92,386.4,5,0.1,8404.6
+ORD00688,2023-05-21,Headphones,Accessories,South America,381.23,19.68,2,0.25,762.46
+ORD00689,2023-01-01,Smartphone,Accessories,Africa,65.75,3.38,1,0.2,65.75
+ORD00690,2023-01-05,Mouse,Accessories,Asia,1896.18,368.24,1,0.1,1896.18
+ORD00691,2023-09-18,Monitor,Office Equipment,North America,780.85,119.51,1,0.1,780.85
+ORD00692,2023-03-13,Mouse,Accessories,Africa,520.66,103.5,4,0.05,2082.64
+ORD00693,2023-07-30,Monitor,Office Equipment,Africa,677.43,146.98,2,0.25,1354.86
+ORD00694,2023-08-17,Monitor,Office Equipment,South America,656.83,152.26,4,0.15,2627.32
+ORD00695,2023-01-17,Printer,Accessories,Asia,1301.81,345.6,1,0.25,1301.81
+ORD00696,2023-08-20,Headphones,Electronics,Europe,1440.52,105.76,1,0.05,1440.52
+ORD00697,2023-04-14,Keyboard,Electronics,Africa,1382.84,168.74,2,0.05,2765.68
+ORD00698,2023-07-27,Smartphone,Accessories,Africa,302.94,83.87,5,0.25,1514.7
+ORD00699,2023-03-02,Keyboard,Electronics,Asia,1692.41,266.38,1,0.25,1692.41
+ORD00700,2023-01-22,Mouse,Electronics,Asia,838.34,241.04,1,0.15,838.34
+ORD00701,2023-08-27,Mouse,Electronics,North America,1275.05,286.19,3,0.05,3825.1499999999996
+ORD00702,2023-05-22,Mouse,Office Equipment,Asia,1988.1,566.68,5,0.2,9940.5
+ORD00703,2023-06-24,Monitor,Accessories,South America,1698.64,126.26,3,0.25,5095.92
+ORD00704,2023-08-29,Smartphone,Office Equipment,Africa,1777.65,170.86,4,0.2,7110.6
+ORD00705,2023-12-06,Smartphone,Office Equipment,Europe,772.52,86.46,4,0.15,3090.08
+ORD00706,2023-12-18,Smartphone,Office Equipment,Europe,274.56,77.67,5,0.05,1372.8
+ORD00707,2023-03-13,Tablet,Electronics,South America,1900.37,208.3,2,0.25,3800.74
+ORD00708,2023-06-16,Printer,Accessories,South America,1422.72,245.54,3,0.25,4268.16
+ORD00709,2023-01-25,Printer,Electronics,North America,1512.5,112.56,5,0.15,7562.5
+ORD00710,2023-09-29,Laptop,Electronics,North America,1754.15,146.37,5,0.1,8770.75
+ORD00711,2023-08-08,Mouse,Office Equipment,South America,100.57,26.94,1,0.05,100.57
+ORD00712,2024-01-27,Monitor,Office Equipment,Europe,153.8,28.26,1,0.25,153.8
+ORD00713,2023-04-12,Laptop,Electronics,Asia,1015.13,180.33,1,0.15,1015.13
+ORD00714,2023-08-14,Tablet,Accessories,Africa,1363.04,339.85,2,0.15,2726.08
+ORD00715,2023-10-04,Keyboard,Electronics,Europe,543.28,148.09,4,0.25,2173.12
+ORD00716,2023-07-20,Printer,Accessories,Europe,374.41,79.39,5,0.15,1872.0500000000002
+ORD00717,2023-11-19,Smartphone,Office Equipment,South America,1465.73,80.93,1,0.1,1465.73
+ORD00718,2023-10-12,Mouse,Electronics,Asia,173.41,20.67,1,0.05,173.41
+ORD00719,2023-01-18,Keyboard,Electronics,Africa,1347.66,199.45,1,0.25,1347.66
+ORD00720,2023-12-21,Keyboard,Office Equipment,North America,588.71,137.42,4,0.2,2354.84
+ORD00721,2023-08-24,Laptop,Accessories,Africa,1644.88,312.27,2,0.05,3289.76
+ORD00722,2023-04-05,Headphones,Accessories,Europe,1481.75,301.14,2,0.15,2963.5
+ORD00723,2023-11-17,Laptop,Office Equipment,Asia,1651.65,137.94,5,0.25,8258.25
+ORD00724,2023-09-20,Monitor,Office Equipment,Africa,1620.78,356.82,1,0.05,1620.78
+ORD00725,2023-05-30,Laptop,Office Equipment,North America,324.8,61.09,5,0.15,1624.0
+ORD00726,2023-02-03,Monitor,Office Equipment,Asia,739.94,112.11,3,0.05,2219.82
+ORD00727,2023-08-23,Tablet,Office Equipment,Africa,927.97,121.66,5,0.05,4639.85
+ORD00728,2023-10-26,Printer,Electronics,Africa,893.49,155.03,5,0.25,4467.45
+ORD00729,2023-12-05,Smartphone,Office Equipment,Europe,1325.53,273.49,5,0.2,6627.65
+ORD00730,2023-05-28,Monitor,Accessories,South America,1944.15,369.92,1,0.2,1944.15
+ORD00731,2023-11-09,Laptop,Electronics,Europe,1755.19,359.07,4,0.2,7020.76
+ORD00732,2023-01-15,Keyboard,Electronics,Africa,178.82,32.56,1,0.05,178.82
+ORD00733,2023-11-21,Headphones,Office Equipment,South America,1875.32,304.32,5,0.2,9376.6
+ORD00734,2023-02-05,Printer,Electronics,South America,410.39,120.1,3,0.2,1231.17
+ORD00735,2023-09-06,Laptop,Accessories,Asia,283.13,78.97,5,0.2,1415.65
+ORD00736,2023-11-13,Laptop,Accessories,North America,1916.64,317.86,1,0.05,1916.64
+ORD00737,2024-01-29,Monitor,Electronics,South America,199.72,27.33,2,0.05,399.44
+ORD00738,2023-01-22,Laptop,Electronics,Europe,1839.67,260.25,1,0.2,1839.67
+ORD00739,2023-11-30,Mouse,Accessories,North America,1769.81,314.9,4,0.15,7079.24
+ORD00740,2023-08-26,Headphones,Accessories,South America,652.2,186.38,5,0.1,3261.0
+ORD00741,2023-02-18,Keyboard,Electronics,Europe,333.04,95.08,2,0.2,666.08
+ORD00742,2023-04-13,Smartphone,Accessories,North America,710.24,130.33,5,0.2,3551.2
+ORD00743,2023-12-12,Tablet,Accessories,Europe,1602.78,154.86,1,0.25,1602.78
+ORD00744,2023-04-19,Laptop,Office Equipment,North America,1952.81,499.69,1,0.15,1952.81
+ORD00745,2023-08-03,Smartphone,Office Equipment,South America,1125.4,109.33,2,0.2,2250.8
+ORD00746,2023-01-20,Smartphone,Accessories,South America,1604.0,218.17,1,0.05,1604.0
+ORD00747,2023-10-08,Tablet,Accessories,Europe,814.58,80.91,2,0.2,1629.16
+ORD00748,2023-05-08,Keyboard,Accessories,Asia,92.87,21.88,4,0.1,371.48
+ORD00749,2024-01-14,Printer,Office Equipment,Asia,1513.46,163.45,3,0.2,4540.38
+ORD00750,2024-02-19,Tablet,Electronics,South America,738.87,81.76,1,0.2,738.87
+ORD00751,2023-08-31,Mouse,Electronics,Asia,628.02,50.42,4,0.25,2512.08
+ORD00752,2023-02-24,Keyboard,Office Equipment,South America,1108.45,120.38,3,0.25,3325.3500000000004
+ORD00753,2023-10-20,Printer,Office Equipment,Africa,1791.15,391.99,3,0.05,5373.450000000001
+ORD00754,2023-11-03,Mouse,Accessories,Africa,334.03,32.78,2,0.15,668.06
+ORD00755,2023-04-25,Monitor,Accessories,North America,418.74,35.76,3,0.2,1256.22
+ORD00756,2024-01-23,Printer,Electronics,Europe,841.15,174.49,1,0.05,841.15
+ORD00757,2023-08-24,Tablet,Accessories,Europe,1510.2,272.35,1,0.25,1510.2
+ORD00758,2023-02-10,Mouse,Accessories,Africa,1077.48,118.56,5,0.1,5387.4
+ORD00759,2023-02-07,Laptop,Office Equipment,North America,570.87,89.37,1,0.1,570.87
+ORD00760,2023-12-22,Tablet,Office Equipment,Africa,245.82,57.89,1,0.15,245.82
+ORD00761,2023-06-14,Keyboard,Accessories,North America,164.61,21.64,2,0.2,329.22
+ORD00762,2024-01-19,Mouse,Accessories,Europe,1048.13,271.88,5,0.25,5240.650000000001
+ORD00763,2023-09-21,Mouse,Accessories,South America,1348.78,228.55,2,0.2,2697.56
+ORD00764,2023-01-20,Smartphone,Electronics,Europe,1175.26,251.4,3,0.15,3525.7799999999997
+ORD00765,2023-08-01,Tablet,Office Equipment,Europe,964.43,150.18,1,0.25,964.43
+ORD00766,2023-09-20,Headphones,Office Equipment,Asia,242.21,33.62,2,0.05,484.42
+ORD00767,2023-11-19,Headphones,Office Equipment,Europe,1083.71,190.61,1,0.05,1083.71
+ORD00768,2023-06-29,Smartphone,Office Equipment,North America,1895.31,200.39,1,0.1,1895.31
+ORD00769,2023-11-26,Laptop,Accessories,Asia,920.24,195.23,2,0.2,1840.48
+ORD00770,2023-12-25,Keyboard,Accessories,Europe,305.62,20.15,5,0.05,1528.1
+ORD00771,2023-11-15,Mouse,Electronics,Asia,1757.4,113.62,1,0.1,1757.4
+ORD00772,2023-04-10,Monitor,Accessories,South America,318.55,16.28,2,0.1,637.1
+ORD00773,2023-09-04,Tablet,Accessories,South America,1103.49,237.13,2,0.2,2206.98
+ORD00774,2023-08-09,Laptop,Office Equipment,South America,859.23,212.02,3,0.2,2577.69
+ORD00775,2023-01-06,Monitor,Electronics,Europe,1773.97,416.29,4,0.1,7095.88
+ORD00776,2023-01-18,Monitor,Accessories,Europe,956.64,276.03,2,0.15,1913.28
+ORD00777,2023-04-02,Keyboard,Accessories,Africa,1484.81,145.65,3,0.25,4454.43
+ORD00778,2023-08-09,Mouse,Accessories,Asia,1867.68,557.23,2,0.05,3735.36
+ORD00779,2023-09-16,Laptop,Office Equipment,South America,439.12,84.43,2,0.25,878.24
+ORD00780,2023-03-08,Keyboard,Office Equipment,South America,1724.2,357.64,5,0.1,8621.0
+ORD00781,2023-02-17,Smartphone,Office Equipment,South America,125.28,20.2,2,0.05,250.56
+ORD00782,2023-06-12,Tablet,Accessories,Asia,220.57,24.56,1,0.1,220.57
+ORD00783,2023-06-09,Keyboard,Electronics,Europe,1804.51,372.7,3,0.2,5413.53
+ORD00784,2023-06-23,Monitor,Electronics,North America,916.1,221.85,2,0.1,1832.2
+ORD00785,2023-07-05,Printer,Accessories,Africa,170.47,42.61,4,0.25,681.88
+ORD00786,2023-07-28,Printer,Office Equipment,Africa,1012.64,287.99,4,0.25,4050.56
+ORD00787,2023-09-17,Mouse,Electronics,Asia,1172.19,276.73,2,0.05,2344.38
+ORD00788,2023-11-02,Tablet,Electronics,Africa,422.88,34.11,5,0.1,2114.4
+ORD00789,2023-07-24,Printer,Electronics,Asia,1862.55,148.97,4,0.05,7450.2
+ORD00790,2023-07-29,Printer,Office Equipment,Europe,862.92,72.49,2,0.25,1725.84
+ORD00791,2023-05-13,Monitor,Office Equipment,North America,648.59,169.45,3,0.1,1945.77
+ORD00792,2023-12-22,Laptop,Electronics,Europe,1481.96,289.7,2,0.15,2963.92
+ORD00793,2023-08-21,Laptop,Electronics,North America,478.14,26.46,2,0.2,956.28
+ORD00794,2023-06-07,Printer,Office Equipment,Africa,1836.48,335.11,2,0.05,3672.96
+ORD00795,2023-02-17,Tablet,Accessories,South America,304.31,87.34,3,0.15,912.9300000000001
+ORD00796,2023-08-18,Tablet,Electronics,Asia,620.87,66.62,4,0.1,2483.48
+ORD00797,2023-02-18,Headphones,Accessories,Asia,1114.7,162.22,3,0.15,3344.1000000000004
+ORD00798,2023-02-19,Mouse,Electronics,Asia,1283.83,109.57,1,0.15,1283.83
+ORD00799,2023-03-05,Laptop,Accessories,Europe,655.61,38.29,5,0.2,3278.05
+ORD00800,2023-02-20,Monitor,Electronics,Asia,184.77,50.8,3,0.15,554.3100000000001
+ORD00801,2023-03-22,Smartphone,Electronics,South America,596.06,110.34,2,0.15,1192.12
+ORD00802,2023-03-04,Tablet,Accessories,North America,1909.79,524.04,1,0.1,1909.79
+ORD00803,2023-04-14,Smartphone,Electronics,Europe,655.8,50.3,4,0.25,2623.2
+ORD00804,2024-02-29,Tablet,Electronics,South America,1176.92,205.92,5,0.2,5884.6
+ORD00805,2023-02-22,Headphones,Accessories,Africa,852.94,100.1,5,0.2,4264.700000000001
+ORD00806,2023-09-27,Tablet,Electronics,Asia,1284.23,367.54,3,0.2,3852.69
+ORD00807,2024-02-09,Printer,Accessories,South America,1074.23,128.47,4,0.05,4296.92
+ORD00808,2023-05-25,Monitor,Accessories,Asia,1990.57,227.48,5,0.15,9952.85
+ORD00809,2023-02-15,Printer,Electronics,South America,1606.49,204.51,5,0.05,8032.45
+ORD00810,2023-07-24,Laptop,Office Equipment,Europe,754.58,48.03,5,0.05,3772.9
+ORD00811,2023-01-19,Printer,Electronics,South America,1116.94,273.76,2,0.2,2233.88
+ORD00812,2023-03-26,Smartphone,Electronics,North America,58.17,14.33,3,0.1,174.51
+ORD00813,2023-12-06,Mouse,Office Equipment,South America,1992.07,442.42,2,0.05,3984.14
+ORD00814,2023-04-13,Monitor,Accessories,Asia,1232.19,306.28,1,0.2,1232.19
+ORD00815,2023-12-03,Laptop,Accessories,Europe,68.21,7.55,2,0.1,136.42
+ORD00816,2023-08-07,Printer,Electronics,North America,1358.26,309.4,1,0.15,1358.26
+ORD00817,2023-04-30,Mouse,Office Equipment,South America,950.59,88.78,1,0.2,950.59
+ORD00818,2023-10-31,Tablet,Electronics,Europe,1016.18,195.28,3,0.1,3048.54
+ORD00819,2023-10-29,Keyboard,Accessories,Asia,1174.13,70.15,4,0.1,4696.52
+ORD00820,2023-10-01,Laptop,Accessories,Asia,1878.46,144.84,1,0.25,1878.46
+ORD00821,2023-04-08,Smartphone,Electronics,Africa,930.99,222.86,2,0.05,1861.98
+ORD00822,2023-01-30,Keyboard,Office Equipment,Asia,692.73,148.65,2,0.1,1385.46
+ORD00823,2023-10-05,Smartphone,Electronics,Asia,837.97,166.18,1,0.2,837.97
+ORD00824,2023-03-14,Headphones,Electronics,Africa,781.98,68.02,1,0.05,781.98
+ORD00825,2023-10-15,Headphones,Office Equipment,Africa,713.74,134.11,5,0.05,3568.7
+ORD00826,2023-04-28,Mouse,Electronics,North America,1486.04,96.57,4,0.05,5944.16
+ORD00827,2024-02-09,Laptop,Electronics,Africa,1863.81,295.32,4,0.05,7455.24
+ORD00828,2023-03-25,Laptop,Accessories,Africa,406.86,42.55,1,0.25,406.86
+ORD00829,2024-01-28,Monitor,Office Equipment,Asia,1294.72,358.42,5,0.05,6473.6
+ORD00830,2023-07-23,Printer,Accessories,South America,887.42,104.67,1,0.25,887.42
+ORD00831,2023-02-01,Laptop,Accessories,Europe,1274.44,287.64,2,0.05,2548.88
+ORD00832,2024-01-04,Monitor,Office Equipment,Europe,526.78,64.38,5,0.15,2633.8999999999996
+ORD00833,2023-03-24,Monitor,Office Equipment,Africa,365.43,56.8,3,0.2,1096.29
+ORD00834,2023-08-22,Monitor,Office Equipment,Asia,298.81,34.9,3,0.15,896.4300000000001
+ORD00835,2023-01-17,Mouse,Electronics,Asia,877.88,257.56,3,0.1,2633.64
+ORD00836,2023-05-15,Keyboard,Accessories,North America,130.79,19.83,2,0.05,261.58
+ORD00837,2023-05-08,Laptop,Electronics,Africa,617.09,34.07,4,0.2,2468.36
+ORD00838,2023-12-05,Mouse,Office Equipment,South America,339.05,78.73,2,0.2,678.1
+ORD00839,2023-10-22,Laptop,Accessories,Europe,1545.15,164.52,3,0.25,4635.450000000001
+ORD00840,2023-02-26,Keyboard,Accessories,Asia,1474.55,262.6,5,0.1,7372.75
+ORD00841,2023-07-22,Mouse,Electronics,North America,907.52,124.44,2,0.15,1815.04
+ORD00842,2023-12-11,Monitor,Office Equipment,Asia,402.27,53.6,2,0.15,804.54
+ORD00843,2023-09-04,Mouse,Office Equipment,North America,1557.38,107.81,2,0.2,3114.76
+ORD00844,2023-03-30,Keyboard,Office Equipment,Africa,452.2,91.03,3,0.05,1356.6
+ORD00845,2024-02-03,Monitor,Accessories,South America,1436.43,365.23,3,0.25,4309.29
+ORD00846,2023-12-11,Tablet,Office Equipment,Africa,949.56,136.83,4,0.05,3798.24
+ORD00847,2023-07-18,Mouse,Office Equipment,Africa,598.39,168.13,5,0.05,2991.95
+ORD00848,2023-05-31,Tablet,Accessories,North America,1767.84,503.06,2,0.15,3535.68
+ORD00849,2023-09-27,Smartphone,Electronics,Africa,1690.11,329.76,5,0.05,8450.55
+ORD00850,2023-11-01,Headphones,Office Equipment,Asia,1504.16,224.08,1,0.15,1504.16
+ORD00851,2023-08-15,Laptop,Electronics,Asia,84.51,9.77,4,0.15,338.04
+ORD00852,2023-07-18,Keyboard,Office Equipment,North America,702.16,192.75,2,0.15,1404.32
+ORD00853,2024-01-07,Monitor,Office Equipment,Asia,1818.6,223.77,3,0.05,5455.799999999999
+ORD00854,2023-10-30,Headphones,Office Equipment,North America,694.12,63.17,5,0.15,3470.6
+ORD00855,2023-04-05,Headphones,Office Equipment,Africa,1084.53,273.03,5,0.25,5422.65
+ORD00856,2023-02-16,Printer,Accessories,Asia,1119.24,100.97,4,0.1,4476.96
+ORD00857,2023-10-22,Mouse,Accessories,North America,704.15,186.25,2,0.05,1408.3
+ORD00858,2023-05-01,Mouse,Office Equipment,South America,337.55,95.64,3,0.2,1012.6500000000001
+ORD00859,2023-10-15,Monitor,Office Equipment,South America,1661.42,170.31,4,0.15,6645.68
+ORD00860,2024-01-04,Monitor,Office Equipment,Asia,1594.51,443.23,5,0.25,7972.55
+ORD00861,2024-01-04,Smartphone,Electronics,Africa,276.52,68.84,5,0.2,1382.6
+ORD00862,2023-10-27,Printer,Electronics,Africa,1486.12,109.19,4,0.25,5944.48
+ORD00863,2023-04-13,Monitor,Office Equipment,Europe,964.56,66.56,4,0.25,3858.24
+ORD00864,2023-07-19,Monitor,Electronics,South America,1250.71,155.91,4,0.15,5002.84
+ORD00865,2023-06-16,Printer,Electronics,Europe,1627.83,114.47,2,0.1,3255.66
+ORD00866,2023-06-10,Mouse,Electronics,North America,735.79,106.15,3,0.15,2207.37
+ORD00867,2023-07-10,Tablet,Accessories,Asia,292.8,29.36,3,0.25,878.4000000000001
+ORD00868,2023-09-22,Printer,Accessories,North America,1938.96,319.66,2,0.25,3877.92
+ORD00869,2023-07-27,Headphones,Office Equipment,North America,1464.89,379.84,4,0.2,5859.56
+ORD00870,2023-09-25,Printer,Office Equipment,Asia,1479.27,127.99,4,0.1,5917.08
+ORD00871,2024-01-01,Tablet,Electronics,North America,1216.11,343.51,4,0.25,4864.44
+ORD00872,2023-11-27,Keyboard,Accessories,North America,564.66,140.86,3,0.2,1693.98
+ORD00873,2023-05-01,Printer,Electronics,South America,1809.08,332.95,3,0.15,5427.24
+ORD00874,2023-06-17,Monitor,Office Equipment,Africa,1507.6,139.67,4,0.15,6030.4
+ORD00875,2023-11-30,Laptop,Accessories,Europe,1725.66,366.5,2,0.1,3451.32
+ORD00876,2023-03-30,Smartphone,Office Equipment,Asia,156.48,41.62,2,0.05,312.96
+ORD00877,2023-11-22,Smartphone,Electronics,Asia,1406.71,89.59,1,0.2,1406.71
+ORD00878,2023-04-17,Smartphone,Office Equipment,Asia,596.57,79.47,1,0.15,596.57
+ORD00879,2023-05-01,Tablet,Accessories,Asia,1929.33,557.65,1,0.05,1929.33
+ORD00880,2023-09-09,Headphones,Office Equipment,North America,434.17,67.11,2,0.25,868.34
+ORD00881,2023-12-26,Mouse,Accessories,Africa,1668.53,228.27,2,0.15,3337.06
+ORD00882,2023-06-21,Laptop,Accessories,Asia,1580.89,281.11,1,0.15,1580.89
+ORD00883,2023-07-30,Headphones,Accessories,Africa,1670.79,401.14,2,0.2,3341.58
+ORD00884,2023-05-30,Mouse,Office Equipment,Asia,541.87,157.6,3,0.15,1625.6100000000001
+ORD00885,2023-07-26,Printer,Electronics,South America,489.52,94.08,1,0.15,489.52
+ORD00886,2024-02-03,Mouse,Accessories,Europe,1045.3,286.88,3,0.05,3135.8999999999996
+ORD00887,2024-02-11,Laptop,Accessories,Asia,521.05,118.15,4,0.25,2084.2
+ORD00888,2024-02-09,Mouse,Electronics,Europe,277.84,62.87,5,0.05,1389.1999999999998
+ORD00889,2023-08-19,Printer,Office Equipment,Asia,857.5,96.81,5,0.05,4287.5
+ORD00890,2023-07-30,Keyboard,Accessories,Asia,1568.0,225.8,5,0.15,7840.0
+ORD00891,2023-06-09,Smartphone,Accessories,Asia,411.17,82.85,4,0.05,1644.68
+ORD00892,2023-09-25,Printer,Office Equipment,South America,554.36,141.95,5,0.25,2771.8
+ORD00893,2023-06-15,Tablet,Accessories,North America,637.87,141.38,2,0.1,1275.74
+ORD00894,2023-06-19,Tablet,Office Equipment,North America,1974.83,492.55,3,0.2,5924.49
+ORD00895,2023-01-29,Tablet,Electronics,Africa,555.56,41.02,3,0.15,1666.6799999999998
+ORD00896,2024-01-16,Keyboard,Electronics,South America,605.75,85.08,2,0.2,1211.5
+ORD00897,2023-10-17,Headphones,Accessories,Africa,552.93,37.74,4,0.1,2211.72
+ORD00898,2023-06-28,Laptop,Office Equipment,Africa,1007.31,98.42,3,0.05,3021.93
+ORD00899,2024-01-14,Smartphone,Accessories,North America,394.04,91.08,1,0.05,394.04
+ORD00900,2023-03-29,Tablet,Office Equipment,North America,1897.02,346.12,3,0.2,5691.0599999999995
+ORD00901,2023-03-19,Headphones,Electronics,Africa,700.19,67.55,3,0.15,2100.57
+ORD00902,2024-02-17,Tablet,Accessories,Africa,659.57,35.33,5,0.05,3297.8500000000004
+ORD00903,2023-08-14,Laptop,Office Equipment,South America,1420.28,269.44,5,0.05,7101.4
+ORD00904,2023-12-02,Tablet,Office Equipment,South America,608.61,42.91,3,0.1,1825.83
+ORD00905,2023-05-21,Smartphone,Office Equipment,Africa,170.78,33.18,3,0.15,512.34
+ORD00906,2023-03-12,Laptop,Electronics,Asia,1272.25,124.89,2,0.05,2544.5
+ORD00907,2023-01-16,Headphones,Accessories,South America,1084.5,114.75,2,0.05,2169.0
+ORD00908,2023-01-22,Mouse,Electronics,Asia,1262.38,244.8,4,0.05,5049.52
+ORD00909,2023-03-24,Laptop,Electronics,South America,1647.62,116.9,3,0.15,4942.86
+ORD00910,2023-10-18,Smartphone,Accessories,Europe,1754.39,481.12,1,0.1,1754.39
+ORD00911,2023-02-24,Monitor,Electronics,Africa,639.33,60.81,2,0.2,1278.66
+ORD00912,2023-05-24,Smartphone,Electronics,North America,1422.08,252.85,2,0.15,2844.16
+ORD00913,2024-02-11,Keyboard,Accessories,Asia,898.66,250.68,3,0.25,2695.98
+ORD00914,2023-02-27,Headphones,Office Equipment,Europe,1479.58,254.04,1,0.1,1479.58
+ORD00915,2024-01-07,Printer,Electronics,South America,346.25,97.94,5,0.2,1731.25
+ORD00916,2023-04-28,Smartphone,Electronics,Africa,879.9,132.13,5,0.15,4399.5
+ORD00917,2024-01-25,Monitor,Electronics,Africa,1787.7,228.53,4,0.1,7150.8
+ORD00918,2023-05-07,Tablet,Electronics,Africa,1029.16,270.9,1,0.1,1029.16
+ORD00919,2023-12-01,Laptop,Accessories,Asia,1887.08,493.23,4,0.25,7548.32
+ORD00920,2023-09-28,Mouse,Electronics,Europe,1551.98,366.48,4,0.25,6207.92
+ORD00921,2023-09-24,Tablet,Accessories,Africa,1615.55,433.88,3,0.15,4846.65
+ORD00922,2023-02-24,Printer,Office Equipment,South America,1561.99,230.74,5,0.05,7809.95
+ORD00923,2023-12-13,Smartphone,Accessories,North America,851.27,210.47,4,0.25,3405.08
+ORD00924,2023-05-17,Smartphone,Office Equipment,North America,1466.85,194.73,4,0.15,5867.4
+ORD00925,2023-05-16,Monitor,Electronics,Asia,1399.81,288.41,5,0.15,6999.049999999999
+ORD00926,2023-10-18,Monitor,Electronics,Africa,1173.53,348.92,5,0.1,5867.65
+ORD00927,2023-02-16,Smartphone,Electronics,Africa,459.29,45.71,3,0.15,1377.8700000000001
+ORD00928,2023-11-20,Monitor,Office Equipment,Asia,840.58,197.07,5,0.2,4202.900000000001
+ORD00929,2023-06-28,Headphones,Accessories,Asia,1826.08,423.45,5,0.25,9130.4
+ORD00930,2023-10-13,Headphones,Office Equipment,South America,1908.96,340.0,4,0.05,7635.84
+ORD00931,2024-01-19,Printer,Office Equipment,Asia,645.87,40.18,3,0.05,1937.6100000000001
+ORD00932,2023-02-24,Laptop,Electronics,Africa,1553.18,170.96,3,0.05,4659.54
+ORD00933,2023-03-07,Mouse,Accessories,North America,1530.27,414.12,1,0.1,1530.27
+ORD00934,2023-03-06,Smartphone,Office Equipment,Africa,264.5,72.86,5,0.25,1322.5
+ORD00935,2023-06-07,Monitor,Accessories,North America,214.39,16.97,1,0.05,214.39
+ORD00936,2023-06-09,Laptop,Electronics,Africa,1028.38,112.42,4,0.2,4113.52
+ORD00937,2023-10-15,Headphones,Electronics,Asia,373.86,68.44,5,0.2,1869.3000000000002
+ORD00938,2023-04-20,Smartphone,Accessories,North America,1363.65,69.89,2,0.25,2727.3
+ORD00939,2023-01-31,Headphones,Electronics,Asia,1678.15,423.95,3,0.15,5034.450000000001
+ORD00940,2024-02-09,Headphones,Electronics,South America,181.08,15.77,2,0.2,362.16
+ORD00941,2023-06-15,Printer,Office Equipment,North America,796.43,157.9,5,0.2,3982.1499999999996
+ORD00942,2023-11-23,Laptop,Office Equipment,Europe,605.5,46.38,4,0.15,2422.0
+ORD00943,2023-09-13,Laptop,Electronics,South America,622.97,143.86,1,0.05,622.97
+ORD00944,2023-05-12,Monitor,Electronics,Asia,922.68,256.88,5,0.2,4613.4
+ORD00945,2023-04-11,Printer,Electronics,South America,1840.01,413.53,1,0.05,1840.01
+ORD00946,2023-10-30,Keyboard,Office Equipment,South America,447.61,40.86,1,0.15,447.61
+ORD00947,2023-10-15,Monitor,Office Equipment,North America,1148.28,130.81,1,0.05,1148.28
+ORD00948,2023-06-24,Mouse,Electronics,Asia,921.24,95.32,4,0.05,3684.96
+ORD00949,2023-02-25,Headphones,Accessories,Africa,1564.66,345.25,2,0.2,3129.32
+ORD00950,2023-12-18,Headphones,Electronics,South America,432.0,47.71,5,0.15,2160.0
+ORD00951,2023-06-26,Printer,Accessories,Africa,1271.03,295.84,5,0.05,6355.15
+ORD00952,2023-04-15,Mouse,Electronics,Asia,1129.92,68.28,2,0.25,2259.84
+ORD00953,2023-04-21,Tablet,Accessories,Asia,1440.79,152.3,5,0.2,7203.95
+ORD00954,2024-01-10,Headphones,Office Equipment,North America,1989.09,178.67,2,0.1,3978.18
+ORD00955,2023-01-28,Printer,Accessories,Africa,1308.38,319.32,4,0.2,5233.52
+ORD00956,2023-09-07,Tablet,Accessories,South America,1582.72,136.1,3,0.05,4748.16
+ORD00957,2023-10-29,Tablet,Accessories,North America,909.96,112.41,1,0.05,909.96
+ORD00958,2023-07-22,Keyboard,Accessories,North America,1584.43,86.19,2,0.2,3168.86
+ORD00959,2023-01-04,Tablet,Accessories,Europe,1304.76,142.25,2,0.25,2609.52
+ORD00960,2023-06-09,Printer,Accessories,North America,856.34,224.07,2,0.1,1712.68
+ORD00961,2023-09-12,Printer,Accessories,Europe,1255.89,311.2,5,0.1,6279.450000000001
+ORD00962,2023-05-15,Laptop,Electronics,South America,285.47,61.99,3,0.1,856.4100000000001
+ORD00963,2023-08-12,Tablet,Electronics,Europe,1203.09,300.07,4,0.25,4812.36
+ORD00964,2023-04-21,Tablet,Electronics,Asia,491.41,101.74,2,0.15,982.82
+ORD00965,2023-03-22,Tablet,Electronics,Africa,1631.78,139.99,5,0.15,8158.9
+ORD00966,2023-12-30,Smartphone,Electronics,Europe,436.42,55.02,4,0.1,1745.68
+ORD00967,2024-01-26,Mouse,Electronics,South America,1220.13,302.66,3,0.15,3660.3900000000003
+ORD00968,2023-06-20,Headphones,Office Equipment,Asia,1555.11,326.25,2,0.25,3110.22
+ORD00969,2023-09-13,Laptop,Electronics,Asia,1542.5,243.06,5,0.15,7712.5
+ORD00970,2023-09-13,Monitor,Electronics,Africa,412.52,79.03,4,0.25,1650.08
+ORD00971,2023-09-19,Keyboard,Accessories,North America,180.72,36.39,2,0.25,361.44
+ORD00972,2023-11-17,Laptop,Accessories,Africa,150.47,21.38,5,0.05,752.35
+ORD00973,2023-09-23,Tablet,Accessories,Africa,52.74,11.66,2,0.2,105.48
+ORD00974,2023-09-22,Keyboard,Electronics,South America,1075.72,77.49,4,0.1,4302.88
+ORD00975,2023-10-17,Laptop,Electronics,Europe,1354.35,176.58,2,0.2,2708.7
+ORD00976,2023-04-28,Headphones,Office Equipment,South America,447.61,61.09,3,0.1,1342.83
+ORD00977,2024-02-13,Laptop,Office Equipment,Europe,1317.28,126.03,5,0.2,6586.4
+ORD00978,2023-04-20,Mouse,Office Equipment,North America,1881.82,467.16,3,0.05,5645.46
+ORD00979,2024-02-23,Headphones,Accessories,North America,126.45,28.89,4,0.25,505.8
+ORD00980,2023-07-30,Mouse,Electronics,North America,308.58,24.82,1,0.25,308.58
+ORD00981,2024-01-27,Headphones,Electronics,Asia,1020.74,276.76,4,0.1,4082.96
+ORD00982,2023-11-04,Printer,Electronics,Asia,1858.63,191.93,4,0.05,7434.52
+ORD00983,2023-09-25,Mouse,Accessories,Asia,322.67,87.84,5,0.25,1613.3500000000001
+ORD00984,2024-01-23,Laptop,Accessories,Europe,1681.36,218.11,2,0.25,3362.72
+ORD00985,2023-07-04,Headphones,Accessories,Africa,956.6,183.73,4,0.25,3826.4
+ORD00986,2023-04-06,Monitor,Electronics,South America,783.63,54.12,2,0.05,1567.26
+ORD00987,2024-01-12,Tablet,Office Equipment,Africa,865.58,55.63,5,0.1,4327.900000000001
+ORD00988,2023-05-20,Printer,Electronics,North America,1772.89,508.13,2,0.1,3545.78
+ORD00989,2023-06-13,Headphones,Office Equipment,Africa,1894.77,388.33,1,0.05,1894.77
+ORD00990,2023-12-10,Laptop,Office Equipment,Asia,1041.8,97.92,5,0.25,5209.0
+ORD00991,2023-09-29,Smartphone,Accessories,South America,1628.51,420.3,2,0.1,3257.02
+ORD00992,2023-10-15,Headphones,Accessories,Africa,673.93,196.18,5,0.1,3369.6499999999996
+ORD00993,2023-02-26,Monitor,Office Equipment,Africa,1621.95,469.42,5,0.1,8109.75
+ORD00994,2023-10-20,Laptop,Electronics,North America,707.36,36.25,3,0.15,2122.08
+ORD00995,2023-01-10,Printer,Accessories,South America,462.36,116.47,3,0.05,1387.08
+ORD00996,2023-08-13,Tablet,Accessories,North America,1794.32,166.29,4,0.1,7177.28
+ORD00997,2023-01-13,Monitor,Office Equipment,South America,536.31,48.92,2,0.05,1072.62
+ORD00998,2023-01-21,Tablet,Office Equipment,South America,743.99,188.94,1,0.2,743.99
+ORD00999,2023-02-07,Laptop,Office Equipment,Europe,139.81,16.06,3,0.1,419.43
+ORD01000,2023-09-13,Smartphone,Electronics,South America,572.71,102.31,3,0.05,1718.13
